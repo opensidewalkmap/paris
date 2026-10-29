@@ -17,32 +17,32 @@
 # It can be also the name of a neighborhood if is such a big city or you just want a node for it
 # Sometimes being more specific can help, so if you for example want the city of Salvador (Brazil)
 # you should use "Salvador, Brazil", since just "Salvador" probably will return "El Salvador", the country
-CITY_NAME = "Curitiba"
+CITY_NAME = "Paris, France"
 
 # simple name, spaces must be replaced by underscores, no special characters, all in lowercase
-CITY_SHORTNAME = "curitiba"
+CITY_SHORTNAME = "paris"
 
 # username, for adresses
-USERNAME = "kauevestena"
+USERNAME = "opensidewalkmap"
 
 # repository name, for many weblink references:
-REPO_NAME = "opensidewalkmap_beta"
+REPO_NAME = "paris"
 
 # BOUNDING BOX:
 # by now is mostly a fallback method, if the API fails to download the city polygon using CITY_NAME
 # A good tool to find them is: bboxfinder.com
 # # entire city:
 BOUNDING_BOX = (
-    -25.6450101000000004,  # SOUTHERNMOST LATITUDE
-    -49.3891399999999976,  # WESTERNMOST  LONGITUDE
-    -25.3467008999999983,  # NORTHERNMOST LATITUDE
-    -49.1843181999999999,  # EASTERNMOST  LONGITUDE
+    48.8156,  # SOUTHERNMOST LATITUDE
+    2.2241,   # WESTERNMOST LONGITUDE
+    48.9022,  # NORTHERNMOST LATITUDE
+    2.4699,   # EASTERNMOST LONGITUDE
 )
 
 # Set a midpoint for the map AND A Z LEVEL FOR THE INITIAL ZOOM:
-MID_LAT = -25.46075
-MID_LGT = -49.26135
-INITIAL_Z_LEVEL = 19
+MID_LAT = 48.8566
+MID_LGT = 2.3522
+INITIAL_Z_LEVEL = 12
 
 # MIN AND MAX ZOOM LEVELS FOR TILE GENERATION:
 # (since there's the 100MB file size limit, for big datasets might be better to stay at 19 or even 18)
