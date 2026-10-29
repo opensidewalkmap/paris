@@ -4,6 +4,7 @@ on:
   push:
     branches: [main]
     paths:
+      - ".github/workflows/pages.yml"
       - "index.html"
       - "map.html"
       - "webmap_params.json"
@@ -37,6 +38,18 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: false
+      - name: Verify generated products belong to this node
+        run: |
+          python - <<'PY'
+          import json
+          import runpy
+          from pathlib import Path
+          config = runpy.run_path('config.py')
+          manifest = json.loads(Path('oswm-build.json').read_text())
+          boundary = json.loads(Path('data/boundaries/infos.json').read_text())
+          assert manifest['node'] == config['CITY_NAME'], 'Build manifest belongs to another city'
+          assert boundary['name'] == config['CITY_NAME'], 'Boundary belongs to another city'
+          PY
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
