@@ -23,10 +23,27 @@ permissions:
 
 concurrency:
   group: oswm-node-writer-${{ github.repository }}
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
+  validate_node_identity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reject inherited data from another city
+        run: |
+          python - <<'PY'
+          import json
+          import runpy
+          from pathlib import Path
+          config = runpy.run_path('config.py')
+          path = Path('data/boundaries/infos.json')
+          if path.exists():
+              recorded = json.loads(path.read_text()).get('name')
+              assert recorded == config['CITY_NAME'], f"Refusing to publish {recorded} data as {config['CITY_NAME']}; reset inherited template data first"
+          PY
   data_daily_updating:
+    needs: validate_node_identity
     permissions:
       contents: write
       actions: write
