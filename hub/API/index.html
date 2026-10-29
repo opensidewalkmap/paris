@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OSWM Serverless API | Curitiba</title>
+    <title>OSWM Serverless API | Paris, France</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
@@ -683,7 +683,7 @@
         <div class="header-container">
             <div class="logo-section">
                 <img src="../../oswm_runtime/assets/branding/logos/project_logo_100px.png" alt="OSWM Logo">
-                <h1>OpenSidewalkMap API <span style="font-weight: 300; opacity: 0.8; color: var(--text-main)">| Curitiba</span></h1>
+                <h1>OpenSidewalkMap API <span style="font-weight: 300; opacity: 0.8; color: var(--text-main)">| Paris, France</span></h1>
             </div>
             <div class="nav-buttons">
                 <a href="../../index.html" class="btn btn-secondary">Node Home</a>
@@ -815,15 +815,15 @@ print(data)</pre>
     </div>
 
     <footer>
-        <p>OpenSidewalkMap Node Curitiba. Developed by <a href="https://github.com/kauevestena" target="_blank">Kauê Vestena</a>.</p>
+        <p>OpenSidewalkMap Node Paris, France. Developed by <a href="https://github.com/kauevestena" target="_blank">Kauê Vestena</a>.</p>
         <p style="margin-top: 0.5rem; font-size: 0.75rem; opacity: 0.7;">Powered by static serverless architectures.</p>
     </footer>
 
     <script>
         // API Base configuration
-        const USERNAME = "kauevestena";
-        const REPO_NAME = "opensidewalkmap_beta";
-        const baseUrl = "https://kauevestena.github.io/opensidewalkmap_beta/";
+        const USERNAME = "opensidewalkmap";
+        const REPO_NAME = "paris";
+        const baseUrl = "https://opensidewalkmap.github.io/paris/";
         
         document.getElementById('base-url-display').textContent = baseUrl;
 
@@ -950,6 +950,23 @@ print(data)</pre>
   },
   {
     "category": "Boundaries & Config",
+    "path": "data/boundaries/metadata.json",
+    "format": "JSON",
+    "description": "Asset file: metadata.json",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "map_data",
+    "metadata_path": "metadata/boundaries/metadata.json.metadata.json"
+  },
+  {
+    "category": "Boundaries & Config",
     "path": "data/boundaries/polygon.geojson",
     "format": "GeoJSON",
     "description": "Polygon geometry of the study/mapping area boundaries (study boundaries).",
@@ -1007,6 +1024,23 @@ print(data)</pre>
     "path": "metadata/boundaries/infos.json.metadata.json",
     "format": "JSON",
     "description": "Boundary geometry and descriptive information for the node coverage area. This record describes the JSON distribution at data/boundaries/infos.json.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Boundaries Metadata",
+    "path": "metadata/boundaries/metadata.json.metadata.json",
+    "format": "JSON",
+    "description": "Boundary geometry and descriptive information for the node coverage area. This record describes the JSON distribution at data/boundaries/metadata.json.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",
@@ -1594,9 +1628,9 @@ print(data)</pre>
   },
   {
     "category": "Data Aging & Versioning",
-    "path": "data/updates/changeset_cache.json",
+    "path": "data/updates/acquisition.json",
     "format": "JSON",
-    "description": "Cached metadata for OSM changesets (user, comment, created_at, closed_at) to avoid redundant OSM API hits.",
+    "description": "Asset file: acquisition.json",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",
@@ -1607,7 +1641,7 @@ print(data)</pre>
       ]
     },
     "deliverable": "map_data",
-    "metadata_path": "metadata/updates/changeset_cache.json.metadata.json"
+    "metadata_path": "metadata/updates/acquisition.json.metadata.json"
   },
   {
     "category": "Data Aging & Versioning",
@@ -1727,40 +1761,6 @@ print(data)</pre>
     },
     "deliverable": "map_data",
     "metadata_path": "metadata/updates/watcher_decision.json.metadata.json"
-  },
-  {
-    "category": "Data Aging & Versioning",
-    "path": "data/updates/watcher_history.json",
-    "format": "JSON",
-    "description": "Historical log of daily OSM contribution counts (additions, modifications, deletions) for each layer over the last 120 days.",
-    "capabilities": {
-      "action": "preview-json",
-      "action_label": "Preview JSON",
-      "snippets": [
-        "javascript",
-        "python",
-        "curl"
-      ]
-    },
-    "deliverable": "map_data",
-    "metadata_path": "metadata/updates/watcher_history.json.metadata.json"
-  },
-  {
-    "category": "Data Aging & Versioning",
-    "path": "data/updates/yesterday.json",
-    "format": "JSON",
-    "description": "List of OSM changesets touching OSWM interest features that occurred yesterday.",
-    "capabilities": {
-      "action": "preview-json",
-      "action_label": "Preview JSON",
-      "snippets": [
-        "javascript",
-        "python",
-        "curl"
-      ]
-    },
-    "deliverable": "map_data",
-    "metadata_path": "metadata/updates/yesterday.json.metadata.json"
   },
   {
     "category": "Data Quality Metadata",
@@ -5746,9 +5746,9 @@ print(data)</pre>
   },
   {
     "category": "Updates Metadata",
-    "path": "metadata/updates/changeset_cache.json.metadata.json",
+    "path": "metadata/updates/acquisition.json.metadata.json",
     "format": "JSON",
-    "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/changeset_cache.json.",
+    "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/acquisition.json.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",
@@ -5885,40 +5885,6 @@ print(data)</pre>
     "path": "metadata/updates/watcher_decision.json.metadata.json",
     "format": "JSON",
     "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/watcher_decision.json.",
-    "capabilities": {
-      "action": "preview-json",
-      "action_label": "Preview JSON",
-      "snippets": [
-        "javascript",
-        "python",
-        "curl"
-      ]
-    },
-    "deliverable": "metadata",
-    "metadata_path": null
-  },
-  {
-    "category": "Updates Metadata",
-    "path": "metadata/updates/watcher_history.json.metadata.json",
-    "format": "JSON",
-    "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/watcher_history.json.",
-    "capabilities": {
-      "action": "preview-json",
-      "action_label": "Preview JSON",
-      "snippets": [
-        "javascript",
-        "python",
-        "curl"
-      ]
-    },
-    "deliverable": "metadata",
-    "metadata_path": null
-  },
-  {
-    "category": "Updates Metadata",
-    "path": "metadata/updates/yesterday.json.metadata.json",
-    "format": "JSON",
-    "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/yesterday.json.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",
@@ -6842,17 +6808,17 @@ print(data)</pre>
   }
 ];
         const exampleArea = {
-  "label": "Curitiba map centre",
+  "label": "Paris, France map centre",
   "center": {
-    "lat": -25.46075,
-    "lon": -49.26135
+    "lat": 48.8566,
+    "lon": 2.3522
   },
   "size_m": 1000.0,
   "bbox": [
-    -49.266325,
-    -25.465242,
-    -49.256375,
-    -25.456258
+    2.345373,
+    48.852108,
+    2.359027,
+    48.861092
   ]
 };
 

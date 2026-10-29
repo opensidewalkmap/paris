@@ -1,16 +1,16 @@
 {
-    "node_name": "Curitiba",
-    "username": "kauevestena",
-    "repository": "opensidewalkmap_beta",
-    "base_url": "https://kauevestena.github.io/opensidewalkmap_beta/",
-    "description": "Serverless API data index for OSWM node: Curitiba",
+    "node_name": "Paris, France",
+    "username": "opensidewalkmap",
+    "repository": "paris",
+    "base_url": "https://opensidewalkmap.github.io/paris/",
+    "description": "Serverless API data index for OSWM node: Paris, France",
     "folders": {
         "boundaries": {
             "description": "Polygon boundary and metadata about the study area.",
             "path": "data/boundaries",
             "files": [
-                "index.json",
                 "infos.json",
+                "metadata.json",
                 "polygon.geojson",
                 "polygon.parquet"
             ]
@@ -37,7 +37,6 @@
             "path": "data/raw",
             "files": [
                 "crossings.parquet",
-                "index.json",
                 "kerbs.parquet",
                 "other_footways.parquet",
                 "sidewalks.parquet"
@@ -72,19 +71,15 @@
             "description": "Data update logs, registry status, and historical version tracking.",
             "path": "data/updates",
             "files": [
-                "changeset_cache.json",
+                "acquisition.json",
                 "index.html",
-                "index.json",
                 "pipeline_decision.json",
                 "registry.json",
                 "versioning/crossings_versioning.json",
-                "versioning/index.json",
                 "versioning/kerbs_versioning.json",
                 "versioning/other_footways_versioning.json",
                 "versioning/sidewalks_versioning.json",
-                "watcher_decision.json",
-                "watcher_history.json",
-                "yesterday.json"
+                "watcher_decision.json"
             ]
         },
         "vrts": {

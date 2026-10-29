@@ -1,14 +1,14 @@
 {
     "bounds": [
-        -49.38914,
-        -25.6435043,
-        -49.1843182,
-        -25.3449505
+        2.224122,
+        48.8155755,
+        2.4697602,
+        48.902156
     ],
     "zoom": 15,
     "center": [
-        -49.2867291,
-        -25.4942274
+        2.3469411,
+        48.85886575
     ],
     "basemap_url": "pmtiles://data/basemaps/dark.pmtiles",
     "node_homepage": "index.html",
@@ -6876,10 +6876,10 @@
             "kerbs"
         ]
     },
-    "node_url": "https://kauevestena.github.io/opensidewalkmap_beta/",
+    "node_url": "https://opensidewalkmap.github.io/paris/",
     "snapshot": {
         "schema_version": 1,
-        "node_name": "Curitiba",
+        "node_name": "Paris, France",
         "summary_url": "data/snapshots/node_summary.json",
         "default_scope": "node",
         "themes": {
@@ -7199,7 +7199,7 @@
     },
     "theme_charts": {
         "schema_version": 1,
-        "node_name": "Curitiba",
+        "node_name": "Paris, France",
         "summary_url": "data/snapshots/node_summary.json",
         "default_scope": "node",
         "themes": {

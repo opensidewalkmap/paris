@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-29T21:51:17Z",
+  "mode": "generate",
+  "reason": "forced",
+  "watcher_status": 1,
+  "force": true,
+  "current_codebase_revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
+  "recorded_codebase_revision": null,
+  "missing_raw": [
+    "data/raw/sidewalks.parquet",
+    "data/raw/crossings.parquet",
+    "data/raw/kerbs.parquet",
+    "data/raw/other_footways.parquet",
+    "data/boundaries/polygon.geojson"
+  ],
+  "missing_required": [
+    "data/boundaries/infos.json",
+    "data/boundaries/polygon.geojson",
+    "data/boundaries/polygon.parquet",
+    "data/raw/sidewalks.parquet",
+    "data/raw/crossings.parquet",
+    "data/raw/kerbs.parquet",
+    "data/raw/other_footways.parquet",
+    "data/updates/index.html"
+  ]
+}

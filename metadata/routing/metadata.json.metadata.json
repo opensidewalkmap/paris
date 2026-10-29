@@ -15,38 +15,33 @@
     ],
     "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
   },
-  "identifier": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/routing/metadata.json.metadata.json",
+  "identifier": "https://opensidewalkmap.github.io/paris/metadata/routing/metadata.json.metadata.json",
   "resource_type": "report",
-  "title": "Curitiba — Metadata",
+  "title": "Paris, France — Metadata",
   "abstract": "Routing network, profiles, grades, and generation provenance for pedestrian routing. This record describes the JSON distribution at data/routing/metadata.json.",
   "language": "en",
   "responsible_parties": [
     {
-      "name": "kauevestena",
+      "name": "opensidewalkmap",
       "role": "pointOfContact",
-      "url": "https://github.com/kauevestena"
+      "url": "https://github.com/opensidewalkmap"
     },
     {
       "name": "OpenSidewalkMap",
       "role": "publisher",
-      "url": "https://github.com/kauevestena/opensidewalkmap_beta"
+      "url": "https://github.com/opensidewalkmap/paris"
     }
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-10-29T14:37:09+00:00",
+    "updated": "2026-10-29T22:31:18+00:00",
     "node_registry": {
-      "Data Fetching": "2026-10-08T14:47:42Z",
-      "Data Pre-Processing": "2026-10-29T14:32:45Z",
-      "Webmap Generation": "28/08/2024 07:33:01",
-      "Statistical Charts": "2026-10-29T14:37:09Z",
-      "Wiki check for keys": "2026-10-25T13:15:04Z",
-      "Data Quality Tool": "2026-10-29T14:34:03Z",
-      "Versioning Data": "2026-10-25T13:11:53Z",
-      "Completeness Analysis": "2026-10-29T14:36:56Z",
-      "Completeness Analysis (Alt)": "17/07/2026 13:23:15",
-      "OSWM Codebase Revision": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
-      "Pipeline Success": "2026-10-28T14:13:04Z"
+      "Data Fetching": "2026-10-28T21:21:02Z",
+      "Versioning Data": "2026-10-29T22:06:23Z",
+      "Data Pre-Processing": "2026-10-29T22:06:40Z",
+      "Data Quality Tool": "2026-10-29T22:27:53Z",
+      "Completeness Analysis": "2026-10-29T22:31:00Z",
+      "Statistical Charts": "2026-10-29T22:31:18Z"
     }
   },
   "lineage": {
@@ -61,7 +56,7 @@
     "scope": "resource",
     "standard": "OSWM Metadata Profile 1.0",
     "statement": "The record reports provenance and technical integrity without asserting a universal fitness-for-use threshold.",
-    "related_report": "https://kauevestena.github.io/opensidewalkmap_beta/quality_check/index.json"
+    "related_report": "https://opensidewalkmap.github.io/paris/quality_check/index.json"
   },
   "rights": {
     "statement": "Licensing and attribution follow the upstream sources and the specific distribution being described."
@@ -69,7 +64,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-29T14:37:09+00:00",
+    "generated_at": "2026-10-29T22:31:18+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
@@ -80,30 +75,30 @@
   },
   "distribution": {
     "resource_path": "data/routing/metadata.json",
-    "access_url": "https://kauevestena.github.io/opensidewalkmap_beta/data/routing/metadata.json",
-    "download_url": "https://kauevestena.github.io/opensidewalkmap_beta/data/routing/metadata.json",
+    "access_url": "https://opensidewalkmap.github.io/paris/data/routing/metadata.json",
+    "download_url": "https://opensidewalkmap.github.io/paris/data/routing/metadata.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 3020,
+    "byte_size": 3094,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "28e2c272e9dadee1600bc3a5c231347b33e70579bd965dc0b436beae16610bfa"
+      "value": "2ca69112d1286d560d8761445b133825be4a0c38d384a2afb123e4bb1b1f3d48"
     }
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/routing/metadata.json.metadata.json",
+      "href": "https://opensidewalkmap.github.io/paris/metadata/routing/metadata.json.metadata.json",
       "type": "application/json"
     },
     {
       "rel": "describes",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/data/routing/metadata.json",
+      "href": "https://opensidewalkmap.github.io/paris/data/routing/metadata.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/routing/index.json",
+      "href": "https://opensidewalkmap.github.io/paris/metadata/routing/index.json",
       "type": "application/json"
     }
   ]

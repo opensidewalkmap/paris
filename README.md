@@ -1,4 +1,4 @@
-# OpenSidewalkMap, <CITYNAME>Paris<CITYNAME> node
+# OpenSidewalkMap, <CITYNAME>Paris, France<CITYNAME> node
 
 <!-- TODO: README SHALL BE GENERATED AUTOMATICALLY -->
 

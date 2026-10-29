@@ -1,83 +1,314 @@
 osm_id,feat_type,key,value,commentary
-29464525,way,name,Rua Carmelo Rangel,most sidewalks don't have an actual name
-32944187,way,name,Rua Gaspar Carrilho Júnior,most sidewalks don't have an actual name
-74383311,way,name,Rua Desembargador Otávio do Amaral,most sidewalks don't have an actual name
-93125213,way,name,Rua Deputado Leoberto Leal,most sidewalks don't have an actual name
-106935657,way,name,Rua Saldanha Marinho,most sidewalks don't have an actual name
-129113040,way,name,Rua Tereza Delminda da Silva Costa,most sidewalks don't have an actual name
-129116671,way,name,Rua São Miguel Febres Cordeiro,most sidewalks don't have an actual name
-129116689,way,name,Rua São Brás,most sidewalks don't have an actual name
-163037373,way,name,Rua Henrique Itiberê da Cunha,most sidewalks don't have an actual name
-186796972,way,name,Rua Edgard de Alencar Guimarães,most sidewalks don't have an actual name
-186796975,way,name,Rua Dona Emma Hecke de Castro,most sidewalks don't have an actual name
-186796976,way,name,Rua Doutor Othon Accioly Rodrigues da Costa,most sidewalks don't have an actual name
-186796978,way,name,Rua Jornalista Paulino de Almeida,most sidewalks don't have an actual name
-229526565,way,name,Rua Mem de Sá,most sidewalks don't have an actual name
-248442597,way,name,Rua Dinorá Cardoso de Lima,most sidewalks don't have an actual name
-286816186,way,name,Avenida São José,most sidewalks don't have an actual name
-304610302,way,name,Alameda Princesa Izabel,most sidewalks don't have an actual name
-319847152,way,name,Rua Schiller,most sidewalks don't have an actual name
-319847153,way,name,Rua Schiller,most sidewalks don't have an actual name
-355479579,way,name,Rua Monsenhor Celso,most sidewalks don't have an actual name
-356646945,way,name,Rua Ozório Duque Estrada,most sidewalks don't have an actual name
-422430196,way,name,Praça Emirados Árabes Unidos,most sidewalks don't have an actual name
-465904594,way,name,Rua Assma Karam Geara,most sidewalks don't have an actual name
-517108440,way,name,Rua Engenheiro Teodoro Sampaio,most sidewalks don't have an actual name
-522498234,way,name,Alameda Júlia da Costa,most sidewalks don't have an actual name
-662541510,way,name,Rua Padre Agostinho,most sidewalks don't have an actual name
-662541513,way,name,Rua Padre Agostinho,most sidewalks don't have an actual name
-672436955,way,name,Rua Senador Nereu Ramos,most sidewalks don't have an actual name
-683617556,way,name,Avenida Nossa Senhora da Penha,most sidewalks don't have an actual name
-688532111,way,name,Avenida Visconde de Guarapuava,most sidewalks don't have an actual name
-692641630,way,name,Rua da Cidadania Boa Vista,most sidewalks don't have an actual name
-692641631,way,name,Rua da Cidadania Boa Vista,most sidewalks don't have an actual name
-692641633,way,name,Rua da Cidadania Boa Vista,most sidewalks don't have an actual name
-692641634,way,name,Rua da Cidadania Boa Vista,most sidewalks don't have an actual name
-692641635,way,name,Rua da Cidadania Boa Vista,most sidewalks don't have an actual name
-696233966,way,name,Rua Tenente-Coronel Vilagrán Cabrita,most sidewalks don't have an actual name
-698262475,way,name,Rua Fernandes de Barros,most sidewalks don't have an actual name
-706292101,way,name,Rua Deputado Heitor Alencar Furtado,most sidewalks don't have an actual name
-724433446,way,name,Rua Padre Vieira,most sidewalks don't have an actual name
-744726676,way,name,Rua Ivo Leão,most sidewalks don't have an actual name
-753738628,way,name,Rua Monte Castelo,most sidewalks don't have an actual name
-754962182,way,name,Rua José Antoniassi,most sidewalks don't have an actual name
-754962183,way,name,Avenida Albino Raschendorfer,most sidewalks don't have an actual name
-754962184,way,name,Avenida Albino Raschendorfer,most sidewalks don't have an actual name
-758441945,way,name,Rua Germânia,most sidewalks don't have an actual name
-914583239,way,name,Rua Major Claro Américo Guimarães,most sidewalks don't have an actual name
-917332141,way,name,Rua Coronel Domingos Soares,most sidewalks don't have an actual name
-921620000,way,name,Rua Arthur Pina,most sidewalks don't have an actual name
-921620002,way,name,Rua Afonso Nassife,most sidewalks don't have an actual name
-925018576,way,name,Rua João Argino Nogueira,most sidewalks don't have an actual name
-925054646,way,name,Rua Eudóxia Zafiez Santos,most sidewalks don't have an actual name
-926101481,way,name,Rua Joni Francisco Jensen,most sidewalks don't have an actual name
-939307226,way,name,Rua Antônio de Paula França,most sidewalks don't have an actual name
-949575272,way,name,Rua Capitão Souza Franco,most sidewalks don't have an actual name
-949575273,way,name,Alameda Augusto Stellfeld,most sidewalks don't have an actual name
-960593708,way,traffic_signals,no,may be used for crossings
-976309434,way,name,Rua Oscar Chanoski,most sidewalks don't have an actual name
-977034531,way,name,Rua Gerônimo Muraro,most sidewalks don't have an actual name
-1019616100,way,name,Rua Cláudio Chatagnier,most sidewalks don't have an actual name
-1019616101,way,name,Rua Comendador Antônio Domingues de Barros,most sidewalks don't have an actual name
-1020215061,way,name,Praça Tiradentes,most sidewalks don't have an actual name
-1051274354,way,name,Travessa Nestor de Castro,most sidewalks don't have an actual name
-1051274355,way,name,Alameda Augusto Stellfeld,most sidewalks don't have an actual name
-1071178731,way,name,Rua Moysés Marcondes,most sidewalks don't have an actual name
-1101351360,way,name,Rua Gaspar Carrilho Júnior,most sidewalks don't have an actual name
-1101351361,way,name,Rua Gaspar Carrilho Júnior,most sidewalks don't have an actual name
-1110614977,way,name,Rua Alfaiate Alfredo Antônio Müller,most sidewalks don't have an actual name
-1110614978,way,name,Rua Luiz Massuquetto,most sidewalks don't have an actual name
-1110614979,way,name,Rua Alexandre Dalcuch,most sidewalks don't have an actual name
-1110614980,way,name,Rua José Cocconi,most sidewalks don't have an actual name
-1149566045,way,name,Rua Domingos Festa Filho,most sidewalks don't have an actual name
-1156520805,way,name,Rua Bruno Filgueira,most sidewalks don't have an actual name
-1160926578,way,name,Rua Padre Dehon,most sidewalks don't have an actual name
-1218415018,way,name,Rua Dalila Rolim Vargas,most sidewalks don't have an actual name
-1218415019,way,name,Rua Luiz Leopoldo Landal,most sidewalks don't have an actual name
-1243751462,way,name,Rua Tenente João Gomes da Silva,most sidewalks don't have an actual name
-1508008287,way,name,Avenida Canal Belém (Marginal Leste),most sidewalks don't have an actual name
-1508008288,way,name,Avenida Canal Belém (Marginal Leste),most sidewalks don't have an actual name
-1510179295,way,name,Rua Dídimo Agapito da Veiga,most sidewalks don't have an actual name
-1510179298,way,name,Rua Betty de Souza Paula Halila,most sidewalks don't have an actual name
-1510179302,way,name,Rua Ângelo João Gottardi,most sidewalks don't have an actual name
-1513060781,way,name,Rua Almeida Júnior,most sidewalks don't have an actual name
+3330806,relation,name,Place Charles Tillon,most sidewalks don't have an actual name
+14287229,relation,name,Place Alice Mathieu-Dubois,most sidewalks don't have an actual name
+4039899,way,name,Rue Thomas Mann,most sidewalks don't have an actual name
+14882387,way,name,Place de la Concorde,most sidewalks don't have an actual name
+20916276,way,name,Rue Bernard de Ventadour,most sidewalks don't have an actual name
+23450289,way,name,Passage des Panoramas,most sidewalks don't have an actual name
+29065163,way,name,Promenade Bernard Lafray,most sidewalks don't have an actual name
+29402353,way,name,Rue Édouard Lartet,most sidewalks don't have an actual name
+32082244,way,name,Allée Samuel Beckett,most sidewalks don't have an actual name
+32213127,way,name,Allée Samuel Beckett,most sidewalks don't have an actual name
+34182048,way,name,Place Jacques Rueff,most sidewalks don't have an actual name
+37030123,way,name,Place de la Bataille de Stalingrad,most sidewalks don't have an actual name
+38152048,way,name,Allée du Général Kœnig,most sidewalks don't have an actual name
+44781855,way,name,Quai Jacques Chirac,most sidewalks don't have an actual name
+44781857,way,name,Quai Jacques Chirac,most sidewalks don't have an actual name
+51702873,way,name,Rue Baudricourt,most sidewalks don't have an actual name
+51706189,way,name,Rue Jeanne d'Arc,most sidewalks don't have an actual name
+51706190,way,name,Rue Jeanne d'Arc,most sidewalks don't have an actual name
+51925517,way,name,Rue Baudricourt,most sidewalks don't have an actual name
+51926398,way,name,Rue Baudricourt,most sidewalks don't have an actual name
+54053057,way,name,Galerie du Théatre Français,most sidewalks don't have an actual name
+55489256,way,name,Place Henri Frenay,most sidewalks don't have an actual name
+69331874,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+69331881,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+69332148,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+69333281,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+74761504,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+74762020,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+74762029,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+78548945,way,name,Boulevard Saint-Martin,most sidewalks don't have an actual name
+108246464,way,name,Place Chavarche et Arpik Missakian,most sidewalks don't have an actual name
+108282648,way,name,Passage des Princes,most sidewalks don't have an actual name
+108327699,way,name,Avenue Daumesnil,most sidewalks don't have an actual name
+112868934,way,name,Belvédère Claude-Gérard Marcus,most sidewalks don't have an actual name
+123461235,way,name,Place Henri Frenay,most sidewalks don't have an actual name
+138036388,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+143313418,way,name,Place Louis Baillot,most sidewalks don't have an actual name
+161463047,way,name,Rue Jacques Lacan,most sidewalks don't have an actual name
+164886541,way,name,Place Saint-Estèphe,most sidewalks don't have an actual name
+164886543,way,name,Place Saint-Estèphe,most sidewalks don't have an actual name
+182882355,way,name,Promenade Bernard Lafray,most sidewalks don't have an actual name
+189657313,way,name,Avenue de la Porte de Charenton,most sidewalks don't have an actual name
+205406161,way,name,Voie Mazas,most sidewalks don't have an actual name
+238494662,way,name,Rond-Point du Pont Mirabeau,most sidewalks don't have an actual name
+244896407,way,name,Rue des Artistes,most sidewalks don't have an actual name
+246320680,way,name,Quai d'Austerlitz,most sidewalks don't have an actual name
+278087057,way,name,Boulevard Macdonald,most sidewalks don't have an actual name
+278108937,way,name,Rue Charles Monselet,most sidewalks don't have an actual name
+291500913,way,name,Quai d'Austerlitz,most sidewalks don't have an actual name
+298804023,way,name,Passage de Montpensier,most sidewalks don't have an actual name
+311794898,way,name,Place du 8 Novembre 1942,most sidewalks don't have an actual name
+368407963,way,name,Place de Breteuil,most sidewalks don't have an actual name
+368407967,way,name,Esplanade Jacques Chaban-Delmas,most sidewalks don't have an actual name
+368407991,way,name,Place Vauban,most sidewalks don't have an actual name
+368539105,way,name,Avenue de Lowendal,most sidewalks don't have an actual name
+369591810,way,name,Rue Bausset,most sidewalks don't have an actual name
+376952828,way,name,Rue Lounès Matoub,most sidewalks don't have an actual name
+387361033,way,name,Quai André Citroën,most sidewalks don't have an actual name
+444383820,way,name,Voie Mazas,most sidewalks don't have an actual name
+444383821,way,name,Quai Henri IV,most sidewalks don't have an actual name
+448014581,way,name,Allée de Longchamp,most sidewalks don't have an actual name
+455719253,way,name,Voie Mazas,most sidewalks don't have an actual name
+455719254,way,name,Voie Mazas,most sidewalks don't have an actual name
+460386770,way,name,Place de Breteuil,most sidewalks don't have an actual name
+460386784,way,name,Esplanade Jacques Chaban-Delmas,most sidewalks don't have an actual name
+460386788,way,name,Esplanade Jacques Chaban-Delmas,most sidewalks don't have an actual name
+460386790,way,name,Esplanade Jacques Chaban-Delmas,most sidewalks don't have an actual name
+460386791,way,name,Esplanade Jacques Chaban-Delmas,most sidewalks don't have an actual name
+511777367,way,name,Allée Darius Milhaud,most sidewalks don't have an actual name
+511789008,way,name,Promenade Jean Vigo,most sidewalks don't have an actual name
+518758774,way,name,Voie Mazas,most sidewalks don't have an actual name
+529087058,way,name,Place Jacques-Debu-Bridel,most sidewalks don't have an actual name
+557679238,way,name,Rue Pégoud,most sidewalks don't have an actual name
+563731989,way,name,Place Cambronne,most sidewalks don't have an actual name
+577436436,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+577436438,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+577436439,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+583881027,way,name,Esplanade Habib Bourguiba,most sidewalks don't have an actual name
+584676385,way,name,Place des Martyrs Juifs du Vélodrome d'Hiver,most sidewalks don't have an actual name
+588132941,way,name,Rue du Général Guillaumat,most sidewalks don't have an actual name
+588132943,way,name,Avenue de la Porte de la Plaine,most sidewalks don't have an actual name
+592942356,way,name,Avenue Daumesnil,most sidewalks don't have an actual name
+606749613,way,name,Pont des Invalides,most sidewalks don't have an actual name
+612590680,way,name,Rue du Château,most sidewalks don't have an actual name
+612590689,way,name,Rue du Château,most sidewalks don't have an actual name
+612590699,way,name,Place des Cinq Martyrs du Lycée Buffon,most sidewalks don't have an actual name
+627267004,way,name,Parvis Notre-Dame - Place Jean-Paul II,most sidewalks don't have an actual name
+627375087,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+627379830,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+671577605,way,name,Quai André Citroën,most sidewalks don't have an actual name
+688244212,way,name,Avenue Anatole France,most sidewalks don't have an actual name
+688964939,way,name,Place Joffre,most sidewalks don't have an actual name
+691905064,way,name,Rue du Cloître Notre-Dame,most sidewalks don't have an actual name
+696354696,way,name,Avenue Daumesnil,most sidewalks don't have an actual name
+700070807,way,name,Pont National,most sidewalks don't have an actual name
+705481320,way,name,Quai Saint-Bernard,most sidewalks don't have an actual name
+715728433,way,name,Promenade Thérèse Pierre,most sidewalks don't have an actual name
+715728435,way,name,Promenade Gilberte Brossolette,most sidewalks don't have an actual name
+725041849,way,name,Quai Saint-Bernard,most sidewalks don't have an actual name
+732075777,way,name,Place Napoléon III,most sidewalks don't have an actual name
+744633330,way,name,Place Justin Godart,most sidewalks don't have an actual name
+766493281,way,name,Quai Saint-Bernard,most sidewalks don't have an actual name
+766493283,way,name,Quai Saint-Bernard,most sidewalks don't have an actual name
+772508986,way,name,Quai Saint-Bernard,most sidewalks don't have an actual name
+775906951,way,name,Cours Albert-Iᵉʳ,most sidewalks don't have an actual name
+775906954,way,name,Cours Albert-Iᵉʳ,most sidewalks don't have an actual name
+803103527,way,name,Place Mazas,most sidewalks don't have an actual name
+804575668,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+813255222,way,name,Rue du Commandant René Mouchotte,most sidewalks don't have an actual name
+827437084,way,name,Boulevard Victor,most sidewalks don't have an actual name
+862548176,way,name,Parvis Élise et Célestin Freinet,most sidewalks don't have an actual name
+871217206,way,name,Allée Claude Lanzmann,most sidewalks don't have an actual name
+888181388,way,name,Allée Mary Reynolds,most sidewalks don't have an actual name
+897673776,way,name,Rue du Mont Cenis,most sidewalks don't have an actual name
+897673778,way,name,Rue du Mont Cenis,most sidewalks don't have an actual name
+897673780,way,name,Rue du Mont Cenis,most sidewalks don't have an actual name
+905514603,way,name,Avenue de la Porte de Choisy,most sidewalks don't have an actual name
+905514604,way,name,Avenue de la Porte de Choisy,most sidewalks don't have an actual name
+905514606,way,name,Avenue de la Porte de Choisy,most sidewalks don't have an actual name
+969856908,way,name,Rue Jeanne d'Arc,most sidewalks don't have an actual name
+989043264,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+989043268,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+989043277,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+989043279,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+989043287,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+989043290,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+989043305,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+989043309,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+989043312,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1003659132,way,name,Avenue de la Porte de Châtillon,most sidewalks don't have an actual name
+1009151352,way,name,Boulevard Kellermann,most sidewalks don't have an actual name
+1023307122,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1023307126,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1033838611,way,name,Place de la Bataille de Stalingrad,most sidewalks don't have an actual name
+1038005812,way,name,Avenue de la Porte de Charenton,most sidewalks don't have an actual name
+1038005817,way,name,Avenue de la Porte de Charenton,most sidewalks don't have an actual name
+1065860681,way,name,Avenue de Gravelle,most sidewalks don't have an actual name
+1087767599,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1087767603,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1087767612,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1087767616,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1087767623,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1087781171,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1087781173,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1098621788,way,name,Rue du Cloître Notre-Dame,most sidewalks don't have an actual name
+1099697221,way,name,Place Cambronne,most sidewalks don't have an actual name
+1112295612,way,name,Place Françoise Dorin,most sidewalks don't have an actual name
+1117913029,way,name,Rue Abel-Truchet,most sidewalks don't have an actual name
+1121722932,way,name,Allée Rosemonde Gérard,most sidewalks don't have an actual name
+1121983404,way,name,Boulevard de Courcelles,most sidewalks don't have an actual name
+1136759140,way,name,Quai Saint-Bernard,most sidewalks don't have an actual name
+1149449514,way,name,Place de Breteuil,most sidewalks don't have an actual name
+1149449520,way,name,Place de Breteuil,most sidewalks don't have an actual name
+1151028354,way,name,Place de Breteuil,most sidewalks don't have an actual name
+1151028365,way,name,Place de Breteuil,most sidewalks don't have an actual name
+1151028367,way,name,Place de Breteuil,most sidewalks don't have an actual name
+1151028373,way,name,Place de Breteuil,most sidewalks don't have an actual name
+1151937340,way,name,Rue des Artistes,most sidewalks don't have an actual name
+1151937343,way,name,Allée Samuel Beckett,most sidewalks don't have an actual name
+1154852309,way,name,Rue de la Tacherie,most sidewalks don't have an actual name
+1154852310,way,name,Rue de la Tacherie,most sidewalks don't have an actual name
+1156593831,way,name,Place de la Laïcité,most sidewalks don't have an actual name
+1156593838,way,name,Place de la Laïcité,most sidewalks don't have an actual name
+1156608350,way,name,Rampe Emeriau,most sidewalks don't have an actual name
+1159899167,way,name,Boulevard Soult,most sidewalks don't have an actual name
+1159899168,way,name,Boulevard Soult,most sidewalks don't have an actual name
+1163456054,way,name,Rue Maurice Maignen,most sidewalks don't have an actual name
+1163926422,way,name,impasse,most sidewalks don't have an actual name
+1164631426,way,name,Avenue de Gravelle,most sidewalks don't have an actual name
+1171742380,way,name,Allée Jean-François Divry,most sidewalks don't have an actual name
+1177413544,way,name,Place Claude Sautet,most sidewalks don't have an actual name
+1177413545,way,name,Place Claude Sautet,most sidewalks don't have an actual name
+1177414089,way,name,Place Milena Salvini,most sidewalks don't have an actual name
+1178366141,way,name,Allée Samuel Beckett,most sidewalks don't have an actual name
+1178366142,way,name,Allée Samuel Beckett,most sidewalks don't have an actual name
+1178366981,way,name,Allée Samuel Beckett,most sidewalks don't have an actual name
+1185063086,way,name,Impasse Marie de Régnier,most sidewalks don't have an actual name
+1185063088,way,name,Impasse Marie de Régnier,most sidewalks don't have an actual name
+1185220182,way,name,Place Jacques Rueff,most sidewalks don't have an actual name
+1185918831,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1186729162,way,name,Place Saint-Thomas d'Aquin,most sidewalks don't have an actual name
+1187262861,way,name,Avenue de Choisy,most sidewalks don't have an actual name
+1187851860,way,name,Place de Fontenoy,most sidewalks don't have an actual name
+1187851861,way,name,Promenade Bernard Zehrfuss,most sidewalks don't have an actual name
+1187864542,way,name,Rue de Rennes,most sidewalks don't have an actual name
+1189124236,way,name,Rue de Rennes,most sidewalks don't have an actual name
+1190412806,way,name,Passage de la Providence,most sidewalks don't have an actual name
+1190412808,way,name,Passage de la Providence,most sidewalks don't have an actual name
+1190415817,way,name,Allée Maria Doriath,most sidewalks don't have an actual name
+1190836504,way,name,Cours Albert-Iᵉʳ,most sidewalks don't have an actual name
+1190860144,way,name,Place du Colonel Fabien,most sidewalks don't have an actual name
+1191859225,way,name,Boulevard d'Algérie,most sidewalks don't have an actual name
+1191859234,way,name,Rue Charles Monselet,most sidewalks don't have an actual name
+1191859238,way,name,Rue Charles Monselet,most sidewalks don't have an actual name
+1191861760,way,name,Allée Stefa Skurnik,most sidewalks don't have an actual name
+1191861762,way,name,Allée Pierre Bérégovoy,most sidewalks don't have an actual name
+1191861763,way,name,Allée Pierre Bérégovoy,most sidewalks don't have an actual name
+1192009292,way,name,Rue du Cloître Notre-Dame,most sidewalks don't have an actual name
+1192039460,way,name,Rue Jean Quarré,most sidewalks don't have an actual name
+1192039493,way,name,Rue Jean Quarré,most sidewalks don't have an actual name
+1192093483,way,name,Allée Darius Milhaud,most sidewalks don't have an actual name
+1192093486,way,name,Allée Darius Milhaud,most sidewalks don't have an actual name
+1192595553,way,name,Place de Catalogne,most sidewalks don't have an actual name
+1192595559,way,name,Place de Catalogne,most sidewalks don't have an actual name
+1192598408,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1192601082,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1192607616,way,name,Quai Louis Blériot,most sidewalks don't have an actual name
+1193570045,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+1193570047,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+1193714743,way,name,Place du Professeur Muhammad Yunus,most sidewalks don't have an actual name
+1193773604,way,name,Place Jules Joffrin,most sidewalks don't have an actual name
+1194694449,way,name,Allées Jacques Brel,most sidewalks don't have an actual name
+1194696389,way,name,Promenade Florence Arthaud,most sidewalks don't have an actual name
+1194769858,way,name,Allée Stefa Skurnik,most sidewalks don't have an actual name
+1196324073,way,name,Place Henri Frenay,most sidewalks don't have an actual name
+1196739899,way,name,Place Saint-Estèphe,most sidewalks don't have an actual name
+1196739900,way,name,Place Saint-Estèphe,most sidewalks don't have an actual name
+1196739901,way,name,Place Saint-Estèphe,most sidewalks don't have an actual name
+1196739904,way,name,Place Saint-Estèphe,most sidewalks don't have an actual name
+1197051265,way,name,Avenue de la Porte de Charenton,most sidewalks don't have an actual name
+1197051266,way,name,Avenue de la Porte de Charenton,most sidewalks don't have an actual name
+1197051267,way,name,Avenue de la Porte de Charenton,most sidewalks don't have an actual name
+1199361573,way,name,Place Henri Frenay,most sidewalks don't have an actual name
+1224732563,way,name,Avenue de la Porte de Charenton,most sidewalks don't have an actual name
+1226939201,way,name,Promenade Bernard Lafray,most sidewalks don't have an actual name
+1231545461,way,name,Villa Albert Robida,most sidewalks don't have an actual name
+1232286184,way,name,Place Tony Dreyfus,most sidewalks don't have an actual name
+1233269878,way,name,Cours Albert 1er,most sidewalks don't have an actual name
+1237121837,way,name,Allée Claude Cahun - Marcel Moore,most sidewalks don't have an actual name
+1237121839,way,name,Allée Jacques Derrida,most sidewalks don't have an actual name
+1239385263,way,name,Place de Fontenoy,most sidewalks don't have an actual name
+1239385264,way,name,Avenue de Lowendal,most sidewalks don't have an actual name
+1240713875,way,name,Route de la Pyramide,most sidewalks don't have an actual name
+1241109576,way,name,Rue Mondonville,most sidewalks don't have an actual name
+1250020305,way,name,Promenade Bernard Lafray,most sidewalks don't have an actual name
+1256594044,way,name,Boulevard Kellermann,most sidewalks don't have an actual name
+1256594047,way,name,Boulevard Kellermann,most sidewalks don't have an actual name
+1268363428,way,name,Place de la Concorde,most sidewalks don't have an actual name
+1270636603,way,name,Avenue de Gravelle,most sidewalks don't have an actual name
+1279773839,way,name,Promenade Gilberte Brossolette,most sidewalks don't have an actual name
+1283895710,way,name,Pont Alexandre III,most sidewalks don't have an actual name
+1283895711,way,name,Pont Alexandre III,most sidewalks don't have an actual name
+1286357284,way,name,Place Valhubert,most sidewalks don't have an actual name
+1288424385,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1288424387,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1290521922,way,name,Rue de la Bastille,most sidewalks don't have an actual name
+1292035129,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1293096239,way,name,Place Ady et Gilberte Steg,most sidewalks don't have an actual name
+1296022787,way,name,Route de la Pyramide,most sidewalks don't have an actual name
+1296034307,way,name,Esplanade Habib Bourguiba,most sidewalks don't have an actual name
+1311401467,way,name,Pont Alexandre III,most sidewalks don't have an actual name
+1311401471,way,name,Pont Alexandre III,most sidewalks don't have an actual name
+1311401472,way,name,Pont Alexandre III,most sidewalks don't have an actual name
+1316253942,way,name,Galerie Point Show,most sidewalks don't have an actual name
+1316546919,way,name,Promenade des Champs-Élysées,most sidewalks don't have an actual name
+1319128949,way,name,Allée du Commandant Massoud,most sidewalks don't have an actual name
+1320136119,way,name,Place de la Bataille de Stalingrad,most sidewalks don't have an actual name
+1326504033,way,name,Rue Pégoud,most sidewalks don't have an actual name
+1326504036,way,name,Rue Pégoud,most sidewalks don't have an actual name
+1330892442,way,name,Place de la Concorde,most sidewalks don't have an actual name
+1330892444,way,name,Place de la Concorde,most sidewalks don't have an actual name
+1330892446,way,name,Place de la Concorde,most sidewalks don't have an actual name
+1330892449,way,name,Place de la Concorde,most sidewalks don't have an actual name
+1335370387,way,name,Place de la Concorde,most sidewalks don't have an actual name
+1335599907,way,name,Place de la Porte Maillot,most sidewalks don't have an actual name
+1356791347,way,name,Quai André Citroën,most sidewalks don't have an actual name
+1357051831,way,name,Allée Samuel Beckett,most sidewalks don't have an actual name
+1364117504,way,name,Place Marek Edelman,most sidewalks don't have an actual name
+1366235338,way,name,Allées Jacques Brel,most sidewalks don't have an actual name
+1380099836,way,name,Rue du Cloître Notre-Dame,most sidewalks don't have an actual name
+1413822287,way,name,Rue Louise Bourgeois,most sidewalks don't have an actual name
+1416548256,way,name,Place Pan Yuliang,most sidewalks don't have an actual name
+1420780431,way,name,Boulevard Soult,most sidewalks don't have an actual name
+1420817835,way,name,Avenue de Saint-Cloud,most sidewalks don't have an actual name
+1421316882,way,name,Boulevard Macdonald,most sidewalks don't have an actual name
+1422112198,way,name,Avenue de Saint-Cloud,most sidewalks don't have an actual name
+1422365976,way,name,Route de la Pyramide,most sidewalks don't have an actual name
+1422559596,way,name,Place Saint-Estèphe,most sidewalks don't have an actual name
+1422559597,way,name,Place Saint-Estèphe,most sidewalks don't have an actual name
+1423398660,way,name,Boulevard Macdonald,most sidewalks don't have an actual name
+1427219306,way,name,Boulevard Masséna,most sidewalks don't have an actual name
+1431085937,way,name,Quai d'Austerlitz,most sidewalks don't have an actual name
+1431148688,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+1431148691,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+1431148695,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+1431148698,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+1431148699,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+1431148700,way,name,Rue d'Aubervilliers,most sidewalks don't have an actual name
+1431380358,way,name,Rue du Commandant René Mouchotte,most sidewalks don't have an actual name
+1432262733,way,name,Allée Mary Reynolds,most sidewalks don't have an actual name
+1432417644,way,name,Esplanade André Chamson,most sidewalks don't have an actual name
+1442321604,way,name,Pont Alexandre III,most sidewalks don't have an actual name
+1442543432,way,name,Cours Albert-Iᵉʳ,most sidewalks don't have an actual name
+1443514071,way,name,Place du Colonel Fabien,most sidewalks don't have an actual name
+1451968128,way,name,Place de la Bataille de Stalingrad,most sidewalks don't have an actual name
+1451968129,way,name,Place de la Bataille de Stalingrad,most sidewalks don't have an actual name
+1458699765,way,name,Rue du Docteur Germain Sée,most sidewalks don't have an actual name
+1460474313,way,name,Place de Rungis,most sidewalks don't have an actual name
+1460474314,way,name,Place de Rungis,most sidewalks don't have an actual name
+1460727321,way,name,Rue des Lilas,most sidewalks don't have an actual name
+1469798928,way,name,Avenue Daumesnil,most sidewalks don't have an actual name
+1469798929,way,name,Avenue Daumesnil,most sidewalks don't have an actual name
+1469798930,way,name,Avenue Daumesnil,most sidewalks don't have an actual name
+1469798931,way,name,Avenue Daumesnil,most sidewalks don't have an actual name
+1472222110,way,name,Quai Saint-Bernard,most sidewalks don't have an actual name
+1473833229,way,name,Rue du Colonel Rozanoff,most sidewalks don't have an actual name
+1473833230,way,name,Rue du Colonel Rozanoff,most sidewalks don't have an actual name
+1473833232,way,name,Rue du Colonel Rozanoff,most sidewalks don't have an actual name
+1531216048,way,name,Rue du Cloître Notre-Dame,most sidewalks don't have an actual name
+1539858583,way,name,Rue du Commandant René Mouchotte,most sidewalks don't have an actual name
+1547427605,way,name,Voltaire-Montreuil,most sidewalks don't have an actual name
+1547427608,way,name,Voltaire-Montreuil,most sidewalks don't have an actual name
+1547429374,way,name,Rue des Boulets,most sidewalks don't have an actual name

@@ -1,11 +1,11 @@
 {
-  "node_name": "Curitiba",
-  "generated_at": "2026-10-29T14:42:22Z",
+  "node_name": "Paris, France",
+  "generated_at": "2026-10-29T23:14:08Z",
   "bbox": [
-    -25.6435043,
-    -49.38914,
-    -25.3449505,
-    -49.1843182
+    48.8155755,
+    2.224122,
+    48.902156,
+    2.4697602
   ],
   "keywords_used": [
     "oswm",
@@ -40,68 +40,526 @@
       }
     }
   },
-  "total_projects_found": 2,
+  "total_projects_found": 13,
   "projects": [
     {
-      "id": 1330,
-      "title": "Mapeamento de Acessibilidade - Jardim das Americas",
-      "service": "Tasking Manager",
-      "instance": "https://tasks.teachosm.org/",
-      "url": "https://tasks.teachosm.org/projects/1330",
-      "status": "Published",
-      "description": "Slides de apoio em: \nhttps://rebrand.ly/mapealivre_apres_acess_curso3 ",
-      "country": [
-        "Brazil"
-      ],
-      "matched_keywords": [
-        "acessibilidade"
-      ],
-      "bbox": [
-        -49.243118,
-        -25.472648,
-        -49.215111,
-        -25.44371
-      ]
-    },
-    {
-      "id": 55906,
-      "title": "sidewalks without surface=* tag ( for accessibility )",
+      "id": 54866,
+      "title": "Paris - Artwork Artist & Name",
       "service": "MapRoulette",
       "instance": "https://maproulette.org/",
-      "url": "https://maproulette.org/admin/project/46111/challenge/55906",
-      "status": "Ready",
-      "description": "mapping the surface attributes for sidewalks in curitiba for pedestrian displacement #oswm opensidewalkmap accessibility",
+      "url": "https://maproulette.org/admin/project/63461/challenge/54866",
+      "status": "Partially loaded",
+      "description": "Help us improve the cultural map of Paris! 🎨\n\nParis is home to thousands of public artworks, from historic statues in Le Marais to modern murals in the 13th Arrondissement. While many of these are mapped in OpenStreetMap, hundreds are missing their official names or the names of the artists who created them.\n\n**Your Mission:**\nUse official city registries, artist websites, or street-level imagery (like Mapillary or KartaView) to identify these features. By adding name=* and artist_name=* tags, you help locals and tourists discover the rich artistic heritage of the city.\n\n**Why this matters:**\nAccurate artwork data powers specialized maps, walking tours, and cultural apps. Let's get Paris \"gallery-ready\" for the global mapping community!",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -49.362632372,
-              -25.56372005
+              2.2463795,
+              48.816499
             ],
             [
-              -49.362632372,
-              -25.348218985
+              2.2463795,
+              48.9008114
             ],
             [
-              -49.199414897,
-              -25.348218985
+              2.4689017,
+              48.9008114
             ],
             [
-              -49.199414897,
-              -25.56372005
+              2.4689017,
+              48.816499
             ],
             [
-              -49.362632372,
-              -25.56372005
+              2.2463795,
+              48.816499
             ]
           ]
         ]
       },
       "matched_keywords": [
-        "oswm",
-        "OpenSidewalkMap",
-        "accessibility",
+        "walk"
+      ]
+    },
+    {
+      "id": 43963,
+      "title": "Paris - Fix Conflicting Crossing Feature Tags",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/55484/challenge/43963",
+      "status": "Ready",
+      "description": "This challenge is designed to assist OpenStreetMap contributors in identifying and resolving conflicts in tags associated with crossing ways and nodes. Both crossing ways and nodes may have tags that indicate whether the crossing is marked or unmarked, the type of marking, and the presence of traffic signals. Each task within this challenge pinpoints a pair of crossing way and crossing node that have conflicting tags.\nTo resolve these conflicts, please use aerial imagery to determine which tags should be retained and which should be modified. We recommend using the Rapid editor for making changes, as this tool has built-in validation tests that will simplify this process.\nPlease exercise caution when considering the deletion of tags. Only remove a tag if you are completely sure that it is incorrect. Your contributions are valuable in maintaining the accuracy and usefulness of OpenStreetMap. Thank you for your efforts.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.229994434,
+              48.816253681
+            ],
+            [
+              2.229994434,
+              48.902616722
+            ],
+            [
+              2.471552051,
+              48.902616722
+            ],
+            [
+              2.471552051,
+              48.816253681
+            ],
+            [
+              2.229994434,
+              48.816253681
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "crossing"
+      ]
+    },
+    {
+      "id": 44860,
+      "title": "Paris - Cycleway Missing Foot Tags",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/56002/challenge/44860",
+      "status": "Ready",
+      "description": "This challenge identifies all cycleways that are missing\ninformation about access permission for pedestrians. Mappers are asked to add a foot tag to the\ncycleway to clearly identify whether foot traffic is allowed on the cycleway. Please see [Examples\nfrom the highway=cycleway wiki page](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dcycleway#Examples)\nto learn more about how to add a foot tag to the cycleway.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.22615105,
+              48.81588795
+            ],
+            [
+              2.22615105,
+              48.902556506
+            ],
+            [
+              2.46990875,
+              48.902556506
+            ],
+            [
+              2.46990875,
+              48.81588795
+            ],
+            [
+              2.22615105,
+              48.81588795
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "pedestrian"
+      ]
+    },
+    {
+      "id": 42243,
+      "title": "Paris - Missing Crossing Way",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/56810/challenge/42243",
+      "status": "Ready",
+      "description": "This challenge focuses on identifying\ncrossing nodes that are not connected to a crossing way. A crossing *node* is\na specific type of node that indicates where pedestrian or bicycle crossings\nintersect with roads. A crossing *way*, on the other hand, represents the\nphysical crossing itself, such as a lined or zebra crossing.\n\nTypically, a crossing node should connect to both a highway and a footway\nor cycleway. However, we have found instances where crossing nodes are either\nincorrectly tagged or not connected to any crossing highway. Each task flags\nan instance of a crossing node that is not connected to a crossing way.\n\nWe ask that mappers working on these tasks use satellite imagery to identify\nthe crossing node and its connection to the highway. If the crossing node is\nis mistagged, or misplaced then please resolve the issue and make sure that\nthe crossing node is located at the intersection of a crossing way and a\nhighway.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.2218986,
+              48.8158131
+            ],
+            [
+              2.2218986,
+              48.9027377
+            ],
+            [
+              2.4717543,
+              48.9027377
+            ],
+            [
+              2.4717543,
+              48.8158131
+            ],
+            [
+              2.2218986,
+              48.8158131
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "crossing",
+        "footway",
+        "pedestrian"
+      ]
+    },
+    {
+      "id": 56200,
+      "title": "FRA - Crosswalks Maybe Missing",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/59884/challenge/56200",
+      "status": "Ready",
+      "description": "\nThis challenge focuses on improving the mapping of crosswalks in OSM by adding appropriate crossing nodes or ways.\nMappers should aim to add a crossing node, if straightforward, with appropriate crossing=* and crossing:markings = * tags.\nFor complex intersections or divided highways, map the crosswalks as separate ways, ensuring to capture the marked/unmarked status in the tags.\nConsider looking at various aerial/street imagery as crosswalks are frequently added in the real world.\nYour contributions will enhance the quality of OSM data and support various applications routing on this information.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.222913946,
+              48.81616202
+            ],
+            [
+              2.222913946,
+              48.902429925
+            ],
+            [
+              2.470869197,
+              48.902429925
+            ],
+            [
+              2.470869197,
+              48.81616202
+            ],
+            [
+              2.222913946,
+              48.81616202
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "crossing",
+        "walk"
+      ]
+    },
+    {
+      "id": 56212,
+      "title": "FRA - OSM Footways That Are Potential Sidewalks",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/59969/challenge/56212",
+      "status": "Ready",
+      "description": "\nThis project aims to review OpenStreetMap (OSM) footways that potentially are sidewalks due to proximity to their road but missing the correct footway=* tag.\nThe primary goal is to add footway=sidewalk where appropriate. If the footway is not a sidewalk, consider adding footway=path or marking the task as not an issue depending on local OSM editing conventions.\nPlease review the footway and confirm if it is a sidewalk, pathway, or something else.\nConsider street level imagery to help with this task.\nEach challenge involves a footway that may be a sidewalk due to their proximity to the road.\nOur goal is to ensure accurate representation of sidewalks in OSM.\nYour contributions will enhance the quality of OSM data and support various applications relying on this information.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.230869801,
+              48.818683317
+            ],
+            [
+              2.230869801,
+              48.902657303
+            ],
+            [
+              2.465697761,
+              48.902657303
+            ],
+            [
+              2.465697761,
+              48.818683317
+            ],
+            [
+              2.230869801,
+              48.818683317
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "footway",
+        "sidewalk",
+        "walk"
+      ]
+    },
+    {
+      "id": 50983,
+      "title": "Paris - Validate Cycleway Foot Tag",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/59040/challenge/50983",
+      "status": "Ready",
+      "description": "This challenge focuses on verifying cycleways that are currently\ntagged with foot=no or foot=private to ensure the accuracy of pedestrian access information. Mappers are asked while\nreviewing these cycleways to confirm whether the foot=no or foot=private tag is appropriate or if adjustments are needed.\nFor guidance on using the foot tag, please refer to (https://wiki.openstreetmap.org/wiki/Key:foot)\nto learn more about how to use a foot tag.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.228517524,
+              48.81588795
+            ],
+            [
+              2.228517524,
+              48.9024799
+            ],
+            [
+              2.465698,
+              48.9024799
+            ],
+            [
+              2.465698,
+              48.81588795
+            ],
+            [
+              2.228517524,
+              48.81588795
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "pedestrian"
+      ]
+    },
+    {
+      "id": 51864,
+      "title": "Paris - Sidewalks Maybe Missing",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/59883/challenge/51864",
+      "status": "Ready",
+      "description": "\nThis challenge focuses on improving the mapping of sidewalks in OSM by tagging road segments with appropriate sidewalk tags.\nMappers should aim to tag roads with sidewalk:left, sidewalk:right, or sidewalk:both if straightforward.\nIf not feasible, tag the road as sidewalk:both = separate and map all footways as separate ways using highway=footway tags.\nStreet-level imagery is recommended to assist in mapping these footways accurately. Your contributions will enhance the quality of\nOSM data and support various applications relying on this information. These are likley challenging to map from aerial imagery, we recommend using street level imagery to assist mapping these.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.222693966,
+              48.815962129
+            ],
+            [
+              2.222693966,
+              48.900774967
+            ],
+            [
+              2.4649055,
+              48.900774967
+            ],
+            [
+              2.4649055,
+              48.815962129
+            ],
+            [
+              2.222693966,
+              48.815962129
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "footway",
+        "sidewalk",
+        "walk"
+      ]
+    },
+    {
+      "id": 52052,
+      "title": "Paris - OSM Footways That Are Potential Sidewalks",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/59969/challenge/52052",
+      "status": "Ready",
+      "description": "\nThis project aims to review OpenStreetMap (OSM) footways that potentially are sidewalks due to proximity to their road but missing the correct footway=* tag.\nThe primary goal is to add footway=sidewalk where appropriate. If the footway is not a sidewalk, consider adding footway=path or marking the task as not an issue depending on local OSM editing conventions.\nPlease review the footway and confirm if it is a sidewalk, pathway, or something else.\nConsider street level imagery to help with this task.\nEach challenge involves a footway that may be a sidewalk due to their proximity to the road.\nOur goal is to ensure accurate representation of sidewalks in OSM.\nYour contributions will enhance the quality of OSM data and support various applications relying on this information.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.230869801,
+              48.815983577
+            ],
+            [
+              2.230869801,
+              48.902657303
+            ],
+            [
+              2.465697761,
+              48.902657303
+            ],
+            [
+              2.465697761,
+              48.815983577
+            ],
+            [
+              2.230869801,
+              48.815983577
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "footway",
+        "sidewalk",
+        "walk"
+      ]
+    },
+    {
+      "id": 53738,
+      "title": "Paris - Non Noded Footway and Service Road Intersections",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/61774/challenge/53738",
+      "status": "Ready",
+      "description": "This challenge focuses on identifying and reviewing\ncases where OSM footways intersect with service roads on the same layer but the geometries do not connect to each other. These\nintersections may represent mapping issues where the relationship between the footway and service road\nneeds to be clarified. Mappers are asked to review these intersections verify wether or not the footway and service road should share a node.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.284912092,
+              48.817006404
+            ],
+            [
+              2.284912092,
+              48.899216866
+            ],
+            [
+              2.46354475,
+              48.899216866
+            ],
+            [
+              2.46354475,
+              48.817006404
+            ],
+            [
+              2.284912092,
+              48.817006404
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "footway"
+      ]
+    },
+    {
+      "id": 51980,
+      "title": "Paris - Residential Road Foot No tags",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/59934/challenge/51980",
+      "status": "Ready",
+      "description": "\nThis challenge focuses on reviewing and correcting the usage of foot=no tags on residential roads in OSM.\nMappers should aim to verify if the foot=no tag is correctly used, reserving it for cases where access on\nfoot or by pedestrians is prohibited (private roads) or obviously dangerous for foot traffic (like when a residential road meets a divided highway)\nIf not valid, update the sidewalk:both tag instead or use sidewalk:left/right when appropriate.\nAerial and street-level imagery are recommended to assist in verifying these tags accurately.\nYour contributions will enhance the quality of OSM data and support various applications relying on this information.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.26859435,
+              48.82482935
+            ],
+            [
+              2.26859435,
+              48.898688939
+            ],
+            [
+              2.3991827,
+              48.898688939
+            ],
+            [
+              2.3991827,
+              48.82482935
+            ],
+            [
+              2.26859435,
+              48.82482935
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "pedestrian",
+        "sidewalk",
+        "walk"
+      ]
+    },
+    {
+      "id": 44427,
+      "title": "Paris - Review Possible Mistagged Unmarked Crossing Ways",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/55764/challenge/44427",
+      "status": "Ready",
+      "description": "Welcome to the Map Roulette\nproject for reviewing potentially mistagged pedestrian crossing ways! Our\ngoal is to improve the accuracy of OpenStreetMap data by verifying and\nupdating the tags for crosswalks that may be mislabeled as unmarked.\n\nUsing machine learning, we have identified potential mistagged crossings\nthat are labeled as 'unmarked' in OSM but may actually be marked. Your task\nis to review these crossings and update their tags to include the proper\n'crossing' and 'crossing:markings' tags.\n\nPlease note that some of these tasks may be false positives, so it's important\nto carefully review each case. If a marking appears unmarked across various\nsatellite imagery, mark it as 'Not An Issue'. Additionally, keep in mind that\nsome crossings may have been recently marked, so be sure to check different\nsatellite imagery layers/sources with the latest capture date to verify.\n\nBy participating in this challenge, you will be contributing to the\nimprovement of OpenStreetMap data and helping to make all crossing ways\nsafe and accessible for everyone. So, if you're up for a challenge, join\nus in our quest to create more accurate maps!\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.2699252,
+              48.8509715
+            ],
+            [
+              2.2699252,
+              48.901358648
+            ],
+            [
+              2.388311238,
+              48.901358648
+            ],
+            [
+              2.388311238,
+              48.8509715
+            ],
+            [
+              2.2699252,
+              48.8509715
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "crossing",
+        "pedestrian",
+        "walk"
+      ]
+    },
+    {
+      "id": 43937,
+      "title": "Paris - Sidewalk Should be Crossing",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/55459/challenge/43937",
+      "status": "Ready",
+      "description": "This challenge identifies potential\npedestrian crosswalks that have been incorrectly labeled as sidewalks.\nWe assess the length of each sidewalk. If a sidewalk is notably short and\ncontains a single intermediate node marked as a 'crossing', it is highly\nlikely that the sidewalk is a crossing.\n\nWhen we discover a sidewalk that should be classified as a crosswalk, we flag\nit as a task in Map Roulette.\n\nHuman review of these tasks is crucial because there are numerous locations\nwhere the crosswalk is not clearly defined. A combination of human review and\nstreet-side photos is necessary for accurate mapping of the crossing.\n\nWhen you are directed to the editor to make modifications, you may need to\nzoom in to identify the issue. We recommend using the '+' button to zoom in,\nas the area of interest will be centered on the map.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.266192747,
+              48.816809204
+            ],
+            [
+              2.266192747,
+              48.902286965
+            ],
+            [
+              2.4176264,
+              48.902286965
+            ],
+            [
+              2.4176264,
+              48.816809204
+            ],
+            [
+              2.266192747,
+              48.816809204
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "crossing",
         "pedestrian",
         "sidewalk",
         "walk"

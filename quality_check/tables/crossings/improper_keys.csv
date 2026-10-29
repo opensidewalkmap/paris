@@ -1,18 +1,256 @@
 osm_id,feat_type,key,value,commentary
-24775977,way,name,Rua São Francisco,most crossings have no name
-106928168,way,name,Rua Ivo Leão,most crossings have no name
-121846072,way,name,Rua General Setembrino de Carvalho,most crossings have no name
-696233930,way,name,Rua 2,most crossings have no name
-715060923,way,name,Rua Engenheiro Alberto Monteiro de Carvalho,most crossings have no name
-731579566,way,name,Rua Bruno Filgueira,most crossings have no name
-731579567,way,name,Rua Padre Ildefonso,most crossings have no name
-731579568,way,name,Rua Silveira Peixoto,most crossings have no name
-731579569,way,name,Rua Pasteur,most crossings have no name
-731579570,way,name,Rua Buenos Aires,most crossings have no name
-744726677,way,name,Avenida Cândido Hartmann,most crossings have no name
-759294592,way,name,Rua Padre Isaias de Andrade,most crossings have no name
-763039967,way,name,Rua Diogo Mugiatti,most crossings have no name
-1049505888,way,name,Rua Pasteur,most crossings have no name
-1156759437,way,name,Avenida Cândido Hartmann,most crossings have no name
-1271885015,way,name,Travessa Oliveira Bello,most crossings have no name
-1493804431,way,name,Rua Paulo Setúbal,most crossings have no name
+15922606,way,name,Avenue Anatole France,most crossings have no name
+22880209,way,name,Passage Jaillot,most crossings have no name
+69236726,way,name,Passage Jouffroy,most crossings have no name
+102905822,way,name,Carrefour de Longchamp,most crossings have no name
+111652428,way,name,Passage Brady,most crossings have no name
+111797021,way,name,Pont des Arts,most crossings have no name
+124882063,way,name,Allée de Longchamp,most crossings have no name
+369418646,way,name,Boulevard Pasteur,most crossings have no name
+369430659,way,name,Place de Fontenoy - UNESCO,most crossings have no name
+369430660,way,name,Place de Fontenoy - UNESCO,most crossings have no name
+369430661,way,name,Place de Fontenoy - UNESCO,most crossings have no name
+369430666,way,name,Place de Fontenoy - UNESCO,most crossings have no name
+369430668,way,name,Place de Fontenoy - UNESCO,most crossings have no name
+369583468,way,name,Avenue de Lowendal,most crossings have no name
+369583469,way,name,Avenue de Lowendal,most crossings have no name
+400009674,way,name,Allée Maria Doriath,most crossings have no name
+431992740,way,name,Place de la Madeleine,most crossings have no name
+432844447,way,name,Route des Lacs à Madrid,most crossings have no name
+612590686,way,name,Place des Cinq Martyrs du Lycée Buffon,most crossings have no name
+624210288,way,name,Boulevard Macdonald,most crossings have no name
+624210290,way,name,Boulevard Macdonald,most crossings have no name
+627375086,way,name,Rue d'Aubervilliers,most crossings have no name
+674385330,way,name,Route d'Auteuil à Suresnes,most crossings have no name
+688244162,way,name,Allée Adrienne Lecouvreur,most crossings have no name
+688456039,way,name,Avenue Pierre Loti,most crossings have no name
+688461664,way,name,Allée Adrienne Lecouvreur,most crossings have no name
+688964941,way,name,Place Joffre,most crossings have no name
+688964966,way,name,Place Joffre,most crossings have no name
+689296410,way,name,Place Sainte-Opportune,most crossings have no name
+691660157,way,name,Boulevard du Général d'Armée Jean Simon,most crossings have no name
+703325184,way,name,Place de la Nation,most crossings have no name
+703325185,way,name,Place de la Nation,most crossings have no name
+703325187,way,name,Place de la Nation,most crossings have no name
+703325189,way,name,Place de la Nation,most crossings have no name
+707097183,way,name,Place de la Nation,most crossings have no name
+707097185,way,name,Place de la Nation,most crossings have no name
+707097187,way,name,Place de la Nation,most crossings have no name
+707097188,way,name,Place de la Nation,most crossings have no name
+818530856,way,name,Place Vauban,most crossings have no name
+818530860,way,name,Place Vauban,most crossings have no name
+818530862,way,name,Place Vauban,most crossings have no name
+868172840,way,name,Place Ousmane Sow,most crossings have no name
+868172842,way,name,Place Ousmane Sow,most crossings have no name
+868172843,way,name,Place Ousmane Sow,most crossings have no name
+868172844,way,name,Place Ousmane Sow,most crossings have no name
+868237762,way,name,Allée Pierre Bérégovoy,most crossings have no name
+901220652,way,name,Rue Baudricourt,most crossings have no name
+914452206,way,name,Rue de l'Ambroisie,most crossings have no name
+914452207,way,name,Rue Paul Belmondo,most crossings have no name
+917544727,way,name,Route de la Porte des Sablons à la Porte Maillot,most crossings have no name
+917544728,way,name,Porte Maillot,most crossings have no name
+932313016,way,name,Carrefour de Beauté,most crossings have no name
+985456466,way,name,Carrefour de Beauté,most crossings have no name
+985456467,way,name,Carrefour de Beauté,most crossings have no name
+985456468,way,name,Carrefour de Beauté,most crossings have no name
+985456470,way,name,Carrefour de Beauté,most crossings have no name
+989043265,way,name,Promenade des Champs-Élysées,most crossings have no name
+989043269,way,name,Promenade des Champs-Élysées,most crossings have no name
+989043278,way,name,Promenade des Champs-Élysées,most crossings have no name
+989043280,way,name,Promenade des Champs-Élysées,most crossings have no name
+989043289,way,name,Promenade des Champs-Élysées,most crossings have no name
+989043293,way,name,Promenade des Champs-Élysées,most crossings have no name
+989043307,way,name,Promenade des Champs-Élysées,most crossings have no name
+989043310,way,name,Promenade des Champs-Élysées,most crossings have no name
+989043313,way,name,Promenade des Champs-Élysées,most crossings have no name
+1023307125,way,name,Promenade des Champs-Élysées,most crossings have no name
+1023307128,way,name,Promenade des Champs-Élysées,most crossings have no name
+1033842672,way,name,Promenade Florence Arthaud,most crossings have no name
+1037801626,way,name,Chemin de Ceinture du Lac Inférieur,most crossings have no name
+1038005815,way,name,Avenue de la Porte de Charenton,most crossings have no name
+1038005816,way,name,Avenue de la Porte de Charenton,most crossings have no name
+1038038729,way,name,Avenue de Gravelle,most crossings have no name
+1038038731,way,name,Avenue de Gravelle,most crossings have no name
+1064686608,way,name,Avenue de Gravelle,most crossings have no name
+1087315553,way,name,Avenue Claude Regaud,most crossings have no name
+1087767600,way,name,Promenade des Champs-Élysées,most crossings have no name
+1087767604,way,name,Promenade des Champs-Élysées,most crossings have no name
+1087767605,way,name,Promenade des Champs-Élysées,most crossings have no name
+1087767617,way,name,Promenade des Champs-Élysées,most crossings have no name
+1087767624,way,name,Promenade des Champs-Élysées,most crossings have no name
+1087781172,way,name,Promenade des Champs-Élysées,most crossings have no name
+1087781174,way,name,Promenade des Champs-Élysées,most crossings have no name
+1099697222,way,name,Place Cambronne,most crossings have no name
+1099697224,way,name,Place Cambronne,most crossings have no name
+1117642245,way,name,Avenue de l'École de Joinville,most crossings have no name
+1117913014,way,name,Rue Abel-Truchet,most crossings have no name
+1117913030,way,name,Rue Abel-Truchet,most crossings have no name
+1118916178,way,name,Rond-Point du Pont Mirabeau,most crossings have no name
+1118916180,way,name,Rond-Point du Pont Mirabeau,most crossings have no name
+1122003155,way,name,Allée Django Reinhardt,most crossings have no name
+1125209911,way,name,Route du Lac de Saint-Mandé,most crossings have no name
+1149449515,way,name,Place de Breteuil,most crossings have no name
+1149449517,way,name,Place de Breteuil,most crossings have no name
+1149449518,way,name,Place de Breteuil,most crossings have no name
+1151028356,way,name,Place de Breteuil,most crossings have no name
+1151028361,way,name,Place de Breteuil,most crossings have no name
+1151028364,way,name,Place de Breteuil,most crossings have no name
+1151028366,way,name,Place de Breteuil,most crossings have no name
+1151028368,way,name,Place de Breteuil,most crossings have no name
+1151028369,way,name,Place de Breteuil,most crossings have no name
+1151028370,way,name,Place de Breteuil,most crossings have no name
+1151630129,way,name,Avenue de Lowendal,most crossings have no name
+1151630133,way,name,Avenue de Lowendal,most crossings have no name
+1151630137,way,name,Avenue de Lowendal,most crossings have no name
+1151937341,way,name,Rue des Artistes,most crossings have no name
+1151937342,way,name,Rue des Artistes,most crossings have no name
+1151937346,way,name,Allée Samuel Beckett,most crossings have no name
+1156593833,way,name,Place de la Laïcité,most crossings have no name
+1159899166,way,name,Boulevard Soult,most crossings have no name
+1159901337,way,name,Rue Pégoud,most crossings have no name
+1163456055,way,name,Rue Maurice Maignen,most crossings have no name
+1163459601,way,name,Rue Georges Leclanché,most crossings have no name
+1171742382,way,name,Voie CU/17,most crossings have no name
+1171742383,way,name,Place Marcelle Henry,most crossings have no name
+1172863761,way,name,Allée de Longchamp,most crossings have no name
+1185063087,way,name,Impasse Marie de Régnier,most crossings have no name
+1185220183,way,name,Avenue Pierre Loti,most crossings have no name
+1185918832,way,name,Promenade des Champs-Élysées,most crossings have no name
+1186875547,way,name,rue de rennes,most crossings have no name
+1187864543,way,name,Rue de Rennes,most crossings have no name
+1188688322,way,name,Allée Mary Reynolds,most crossings have no name
+1188688324,way,name,Allée Samuel Beckett,most crossings have no name
+1190412807,way,name,Passage de la Providence,most crossings have no name
+1190415811,way,name,Allée Maria Doriath,most crossings have no name
+1190415814,way,name,Allée Maria Doriath,most crossings have no name
+1190415816,way,name,Allée Maria Doriath,most crossings have no name
+1190842236,way,name,Rue de Rennes,most crossings have no name
+1191859235,way,name,Rue Charles Monselet,most crossings have no name
+1191859237,way,name,Rue Charles Monselet,most crossings have no name
+1192050517,way,name,Passage des Panoramas,most crossings have no name
+1192101912,way,name,Rue du Chevalier de la Barre,most crossings have no name
+1192113036,way,name,Boulevard d'Algérie,most crossings have no name
+1192113042,way,name,Boulevard d'Algérie,most crossings have no name
+1192334109,way,name,Rue Jean Quarré,most crossings have no name
+1192595554,way,name,Place de Catalogne,most crossings have no name
+1192595555,way,name,Place de Catalogne,most crossings have no name
+1192595557,way,name,Place de Catalogne,most crossings have no name
+1192595560,way,name,Place de Catalogne,most crossings have no name
+1192595561,way,name,Place de Catalogne,most crossings have no name
+1192595564,way,name,Place de Catalogne,most crossings have no name
+1192595566,way,name,Place de Catalogne,most crossings have no name
+1192601097,way,name,Promenade des Champs-Élysées,most crossings have no name
+1192609096,way,name,Rue du Général Guillaumat,most crossings have no name
+1192611892,way,name,Place Augusta Holmes,most crossings have no name
+1192648364,way,name,Boulevard Masséna,most crossings have no name
+1192661252,way,name,Square Paul Paray,most crossings have no name
+1192661253,way,name,Rue des Tapisseries,most crossings have no name
+1193570035,way,name,Rue d'Aubervilliers,most crossings have no name
+1193570040,way,name,Rue d'Aubervilliers,most crossings have no name
+1193570046,way,name,Rue d'Aubervilliers,most crossings have no name
+1193579499,way,name,Boulevard Macdonald,most crossings have no name
+1193583180,way,name,Allée du Zénith,most crossings have no name
+1193714933,way,name,Place du Professeur Muhammad Yunus,most crossings have no name
+1193714938,way,name,Place du Professeur Muhammad Yunus,most crossings have no name
+1193791064,way,name,Rue Madeleine Rebérioux,most crossings have no name
+1193973952,way,name,Villa Montcalm,most crossings have no name
+1193973987,way,name,Passage Saint-Jules,most crossings have no name
+1194025847,way,name,Rue de la Fontaine du But,most crossings have no name
+1194025923,way,name,Rue Armand Gauthier,most crossings have no name
+1194217887,way,name,Allée Thomy Thierry,most crossings have no name
+1194217888,way,name,Allée Thomy Thierry,most crossings have no name
+1194217889,way,name,Allée Thomy Thierry,most crossings have no name
+1194217890,way,name,Allée Thomy Thierry,most crossings have no name
+1194283201,way,name,Passage Potier,most crossings have no name
+1194283205,way,name,Passage de Montpensier,most crossings have no name
+1194283207,way,name,Galerie du Théatre Français,most crossings have no name
+1194283240,way,name,Quai Aimé Césaire,most crossings have no name
+1194324068,way,name,Place Sainte-Opportune,most crossings have no name
+1194694448,way,name,Allées Jacques Brel,most crossings have no name
+1194760392,way,name,Passage de la Main d'Or,most crossings have no name
+1194777549,way,name,Allée Neus Català,most crossings have no name
+1196324180,way,name,Place Philippe de Broca,most crossings have no name
+1196739896,way,name,Passage Saint-Vivant,most crossings have no name
+1196739903,way,name,Place Saint-Estèphe,most crossings have no name
+1196739907,way,name,Place des Vins de France,most crossings have no name
+1196739908,way,name,Passage Saint-Émilion,most crossings have no name
+1196740509,way,name,Coulée Verte René-Dumont,most crossings have no name
+1196740510,way,name,Coulée Verte René-Dumont,most crossings have no name
+1196750942,way,name,Rue Valéry Larbaud,most crossings have no name
+1196750943,way,name,Rue Fernand Braudel,most crossings have no name
+1196810037,way,name,Rue de Chambertin,most crossings have no name
+1196819702,way,name,Coulée Verte René-Dumont,most crossings have no name
+1197051264,way,name,Avenue de la Porte de Charenton,most crossings have no name
+1197060071,way,name,Rue Ferdinand de Béhagle,most crossings have no name
+1197069568,way,name,Rue Marie Laurencin,most crossings have no name
+1197096627,way,name,Rue Pelée,most crossings have no name
+1199438775,way,name,Rue de la Justice,most crossings have no name
+1218371407,way,name,Rue Bisson,most crossings have no name
+1223084952,way,name,Rue Boris Vian,most crossings have no name
+1239385258,way,name,Avenue de Lowendal,most crossings have no name
+1240700820,way,name,Avenue de l'École de Joinville,most crossings have no name
+1240989832,way,name,Route de la Plaine,most crossings have no name
+1249680538,way,name,Promenade Bernard Lafray,most crossings have no name
+1250020306,way,name,Promenade Bernard Lafray,most crossings have no name
+1282634081,way,name,Avenue Anatole France,most crossings have no name
+1296022788,way,name,Route de la Pyramide,most crossings have no name
+1296027006,way,name,Route de la Pyramide,most crossings have no name
+1315472587,way,name,Allée Darius Milhaud,most crossings have no name
+1323267785,way,name,Allée Alexandre Vialatte,most crossings have no name
+1325260859,way,name,Rue Fleury,most crossings have no name
+1325480189,way,name,Rue Lucien Lambeau,most crossings have no name
+1325528363,way,name,Rue de la Gare,most crossings have no name
+1326504034,way,name,Rue Pégoud,most crossings have no name
+1326504035,way,name,Rue Pégoud,most crossings have no name
+1327621140,way,name,Boulevard de Sébastopol,most crossings have no name
+1329124494,way,name,Allée Neus Català,most crossings have no name
+1329127402,way,name,Avenue de Fontenay,most crossings have no name
+1329130923,way,name,Avenue de la Porte de la Plaine,most crossings have no name
+1330892443,way,name,Place de la Concorde,most crossings have no name
+1330892445,way,name,Place de la Concorde,most crossings have no name
+1330892447,way,name,Place de la Concorde,most crossings have no name
+1330892448,way,name,Place de la Concorde,most crossings have no name
+1355431029,way,name,Avenue de Gravelle,most crossings have no name
+1356791351,way,name,Rond-Point du Pont Mirabeau,most crossings have no name
+1357051829,way,name,Allée Samuel Beckett,most crossings have no name
+1366001978,way,name,Boulevard Soult,most crossings have no name
+1366235337,way,name,Allées Jacques Brel,most crossings have no name
+1366254755,way,name,Place de Catalogne,most crossings have no name
+1369613212,way,name,Carrefour des Tribunes,most crossings have no name
+1420817833,way,name,Avenue de Saint-Cloud,most crossings have no name
+1420817836,way,name,Avenue de Saint-Cloud,most crossings have no name
+1421255368,way,name,Boulevard Macdonald,most crossings have no name
+1421569268,way,name,Avenue de Nogent,most crossings have no name
+1421569272,way,name,Avenue de Nogent,most crossings have no name
+1422109353,way,name,Allée des Marronniers,most crossings have no name
+1422127747,way,name,Allée Fortunée,most crossings have no name
+1422127750,way,name,Allée Saint-Denis,most crossings have no name
+1422377322,way,name,Carrefour de Longchamp,most crossings have no name
+1422377326,way,name,Carrefour de Longchamp,most crossings have no name
+1422381231,way,name,Allée de Longchamp,most crossings have no name
+1423050853,way,name,Chemin des Lacs à la Porte Dauphine,most crossings have no name
+1426630581,way,name,Carrefour de Beauté,most crossings have no name
+1431148689,way,name,Rue d'Aubervilliers,most crossings have no name
+1431148690,way,name,Rue d'Aubervilliers,most crossings have no name
+1431148692,way,name,Rue d'Aubervilliers,most crossings have no name
+1431148693,way,name,Rue d'Aubervilliers,most crossings have no name
+1431148696,way,name,Rue d'Aubervilliers,most crossings have no name
+1431148697,way,name,Rue d'Aubervilliers,most crossings have no name
+1432577339,way,name,Rue Pégoud,most crossings have no name
+1436555555,way,name,Boulevard Pasteur,most crossings have no name
+1443514072,way,name,Place du Colonel Fabien,most crossings have no name
+1447156339,way,name,Allée Saint-Denis,most crossings have no name
+1447156359,way,name,Allée Saint-Denis,most crossings have no name
+1454193582,way,name,avenue Parmentier,most crossings have no name
+1460474315,way,name,Place de Rungis,most crossings have no name
+1486103463,way,name,Avenue de Gravelle,most crossings have no name
+1488025734,way,name,Carrefour de la Conservation,most crossings have no name
+1488025735,way,name,Carrefour de la Conservation,most crossings have no name
+1489374711,way,name,Avenue de Gravelle,most crossings have no name
+1489374715,way,name,Avenue de Gravelle,most crossings have no name
+1494528938,way,name,Place de Catalogne,most crossings have no name
+1495140408,way,name,Promenade Claude Lévi-Strauss,most crossings have no name
+1497864789,way,name,Avenue de France,most crossings have no name
+1497864790,way,name,Avenue de France,most crossings have no name
+1531216049,way,name,Rue du Cloître Notre-Dame,most crossings have no name

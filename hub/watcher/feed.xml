@@ -1,553 +1,847 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>OSWM Watcher Updates - Curitiba</title>
-    <link>https://kauevestena.github.io/opensidewalkmap_beta/</link>
-    <description>Daily OSM contribution counts for OpenSidewalkMap layers in Curitiba.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 14:42:58 GMT</lastBuildDate>
+    <title>OSWM Watcher Updates - Paris, France</title>
+    <link>https://opensidewalkmap.github.io/paris/</link>
+    <description>Daily OSM contribution counts for OpenSidewalkMap layers in Paris, France.</description>
+    <lastBuildDate>Thu, 29 Oct 2026 23:15:48 GMT</lastBuildDate>
     <item>
         <title>Updates on 2026-07-26</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-26: 31 contributions (21 additions, 8 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 31 contributions (21 additions, 8 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-26: 221 contributions (5 additions, 214 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 78 contributions (2 additions, 75 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 19 contributions (0 additions, 19 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 7 contributions (1 additions, 6 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 117 contributions (2 additions, 114 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-26</guid>
     </item>
     <item>
+        <title>Updates on 2026-07-25</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-25: 448 contributions (83 additions, 362 modifications, 3 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 94 contributions (14 additions, 79 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 36 contributions (3 additions, 33 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 101 contributions (35 additions, 66 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 217 contributions (31 additions, 184 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-07-25</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-07-24</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-24: 216 contributions (24 additions, 192 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 40 contributions (1 additions, 39 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 8 contributions (0 additions, 8 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 54 contributions (19 additions, 35 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 114 contributions (4 additions, 110 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-07-24</guid>
+    </item>
+    <item>
         <title>Updates on 2026-07-23</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-23: 2 contributions (2 additions, 0 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 2 contributions (2 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-23: 174 contributions (9 additions, 165 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 60 contributions (2 additions, 58 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 11 contributions (0 additions, 11 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 5 contributions (4 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 98 contributions (3 additions, 95 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-23</guid>
     </item>
     <item>
         <title>Updates on 2026-07-22</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-22: 1 contributions (0 additions, 0 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 1 contributions (0 additions, 0 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-22: 382 contributions (40 additions, 334 modifications, 8 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 139 contributions (10 additions, 127 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 18 contributions (0 additions, 17 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 36 contributions (19 additions, 15 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 189 contributions (11 additions, 175 modifications, 3 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-22</guid>
     </item>
     <item>
         <title>Updates on 2026-07-21</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-21: 16 contributions (7 additions, 9 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 2 contributions (0 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 1 contributions (1 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 13 contributions (6 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-21: 215 contributions (47 additions, 166 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 50 contributions (10 additions, 40 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 19 contributions (2 additions, 17 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 29 contributions (15 additions, 14 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 117 contributions (20 additions, 95 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-21</guid>
     </item>
     <item>
+        <title>Updates on 2026-07-20</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-20: 292 contributions (66 additions, 223 modifications, 3 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 71 contributions (9 additions, 61 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 20 contributions (1 additions, 19 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 89 contributions (46 additions, 43 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 112 contributions (10 additions, 100 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-07-20</guid>
+    </item>
+    <item>
         <title>Updates on 2026-07-19</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-19: 11 contributions (0 additions, 11 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 3 contributions (0 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 6 contributions (0 additions, 6 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-19: 163 contributions (29 additions, 123 modifications, 11 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 33 contributions (2 additions, 30 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 10 contributions (1 additions, 8 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 42 contributions (16 additions, 23 modifications, 3 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 78 contributions (10 additions, 62 modifications, 6 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-19</guid>
     </item>
     <item>
+        <title>Updates on 2026-07-18</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-18: 511 contributions (32 additions, 473 modifications, 6 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 168 contributions (11 additions, 156 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 34 contributions (0 additions, 33 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 21 contributions (10 additions, 9 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 288 contributions (11 additions, 275 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-07-18</guid>
+    </item>
+    <item>
         <title>Updates on 2026-07-17</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-17: 21 contributions (0 additions, 20 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 9 contributions (0 additions, 9 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 11 contributions (0 additions, 10 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-17: 118 contributions (16 additions, 102 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 21 contributions (0 additions, 21 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 10 contributions (0 additions, 10 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 42 contributions (13 additions, 29 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 45 contributions (3 additions, 42 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-17</guid>
     </item>
     <item>
         <title>Updates on 2026-07-16</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-16: 110 contributions (2 additions, 108 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;crossings: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 109 contributions (2 additions, 107 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-16: 684 contributions (122 additions, 556 modifications, 6 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 148 contributions (17 additions, 127 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;crossings: 87 contributions (12 additions, 74 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 122 contributions (47 additions, 75 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 327 contributions (46 additions, 280 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-16</guid>
     </item>
     <item>
         <title>Updates on 2026-07-15</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-15: 1 contributions (1 additions, 0 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 1 contributions (1 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-15: 74 contributions (14 additions, 60 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 18 contributions (1 additions, 17 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 4 contributions (0 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 16 contributions (11 additions, 5 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 36 contributions (2 additions, 34 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-15</guid>
     </item>
     <item>
+        <title>Updates on 2026-07-14</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-14: 81 contributions (12 additions, 61 modifications, 8 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 16 contributions (0 additions, 12 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;crossings: 3 contributions (0 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 15 contributions (11 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 47 contributions (1 additions, 42 modifications, 4 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-07-14</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-07-13</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-13: 267 contributions (69 additions, 195 modifications, 3 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 66 contributions (10 additions, 55 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 27 contributions (8 additions, 19 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 49 contributions (28 additions, 21 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 125 contributions (23 additions, 100 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-07-13</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-07-12</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-12: 292 contributions (64 additions, 228 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 58 contributions (11 additions, 47 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 27 contributions (6 additions, 21 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 58 contributions (28 additions, 30 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 149 contributions (19 additions, 130 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-07-12</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-07-11</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-11: 210 contributions (25 additions, 178 modifications, 7 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 60 contributions (1 additions, 58 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 21 contributions (0 additions, 20 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 22 contributions (3 additions, 17 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 107 contributions (21 additions, 83 modifications, 3 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-07-11</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-07-10</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-10: 996 contributions (221 additions, 753 modifications, 22 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 346 contributions (79 additions, 261 modifications, 6 deletions)&lt;/li&gt;&lt;li&gt;crossings: 80 contributions (15 additions, 62 modifications, 3 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 72 contributions (21 additions, 51 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 498 contributions (106 additions, 379 modifications, 13 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-07-10</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-07-09</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-09: 317 contributions (229 additions, 88 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 90 contributions (78 additions, 12 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 42 contributions (33 additions, 9 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 32 contributions (2 additions, 30 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 153 contributions (116 additions, 37 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-07-09</guid>
+    </item>
+    <item>
         <title>Updates on 2026-07-08</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-08: 7 contributions (3 additions, 4 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 7 contributions (3 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-08: 127 contributions (13 additions, 105 modifications, 9 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 37 contributions (2 additions, 34 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 8 contributions (0 additions, 6 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 21 contributions (6 additions, 13 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 61 contributions (5 additions, 52 modifications, 4 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-08</guid>
     </item>
     <item>
         <title>Updates on 2026-07-07</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-07: 15 contributions (0 additions, 10 modifications, 5 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 1 contributions (0 additions, 0 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 14 contributions (0 additions, 10 modifications, 4 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-07: 117 contributions (36 additions, 79 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 13 contributions (0 additions, 13 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 2 contributions (0 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 50 contributions (29 additions, 19 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 52 contributions (7 additions, 45 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-07</guid>
     </item>
     <item>
         <title>Updates on 2026-07-06</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-06: 14 contributions (0 additions, 13 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 4 contributions (0 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 10 contributions (0 additions, 9 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-06: 69 contributions (10 additions, 59 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 14 contributions (0 additions, 14 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 3 contributions (0 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 18 contributions (8 additions, 10 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 34 contributions (2 additions, 32 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-06</guid>
     </item>
     <item>
+        <title>Updates on 2026-07-05</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-05: 226 contributions (17 additions, 209 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 67 contributions (1 additions, 66 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 13 contributions (0 additions, 13 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 43 contributions (14 additions, 29 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 103 contributions (2 additions, 101 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-07-05</guid>
+    </item>
+    <item>
         <title>Updates on 2026-07-04</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-04: 2 contributions (0 additions, 2 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 2 contributions (0 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-04: 228 contributions (26 additions, 202 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 36 contributions (0 additions, 36 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 22 contributions (0 additions, 22 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 64 contributions (18 additions, 46 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 106 contributions (8 additions, 98 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-04</guid>
     </item>
     <item>
         <title>Updates on 2026-07-03</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-03: 153 contributions (103 additions, 47 modifications, 3 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 38 contributions (29 additions, 9 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 31 contributions (25 additions, 6 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 1 contributions (0 additions, 0 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 83 contributions (49 additions, 32 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-03: 574 contributions (94 additions, 478 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 154 contributions (18 additions, 136 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 54 contributions (9 additions, 44 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 119 contributions (31 additions, 88 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 247 contributions (36 additions, 210 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-03</guid>
     </item>
     <item>
         <title>Updates on 2026-07-02</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-02: 1 contributions (0 additions, 0 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 1 contributions (0 additions, 0 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-02: 294 contributions (28 additions, 260 modifications, 6 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 78 contributions (2 additions, 76 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 19 contributions (0 additions, 19 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 44 contributions (16 additions, 28 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 153 contributions (10 additions, 137 modifications, 6 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-02</guid>
     </item>
     <item>
         <title>Updates on 2026-07-01</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-01: 58 contributions (55 additions, 3 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 2 contributions (2 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 3 contributions (2 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 53 contributions (51 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-07-01: 397 contributions (69 additions, 328 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 89 contributions (2 additions, 87 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 35 contributions (2 additions, 33 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 64 contributions (40 additions, 24 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 209 contributions (25 additions, 184 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-07-01</guid>
     </item>
     <item>
         <title>Updates on 2026-06-30</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-30: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-30: 204 contributions (14 additions, 188 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 61 contributions (2 additions, 59 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 15 contributions (0 additions, 15 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 7 contributions (3 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 121 contributions (9 additions, 110 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-30</guid>
     </item>
     <item>
         <title>Updates on 2026-06-29</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-29: 4 contributions (3 additions, 1 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 4 contributions (3 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-29: 5509 contributions (2511 additions, 532 modifications, 2466 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 1102 contributions (486 additions, 140 modifications, 476 deletions)&lt;/li&gt;&lt;li&gt;crossings: 593 contributions (272 additions, 58 modifications, 263 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 793 contributions (362 additions, 71 modifications, 360 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 3021 contributions (1391 additions, 263 modifications, 1367 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-29</guid>
     </item>
     <item>
+        <title>Updates on 2026-06-28</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-28: 666 contributions (94 additions, 541 modifications, 31 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 186 contributions (32 additions, 145 modifications, 9 deletions)&lt;/li&gt;&lt;li&gt;crossings: 73 contributions (7 additions, 62 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 76 contributions (0 additions, 74 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 331 contributions (55 additions, 260 modifications, 16 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-28</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-06-27</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-27: 315 contributions (17 additions, 292 modifications, 6 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 97 contributions (2 additions, 93 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 30 contributions (0 additions, 30 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 16 contributions (8 additions, 8 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 172 contributions (7 additions, 161 modifications, 4 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-27</guid>
+    </item>
+    <item>
         <title>Updates on 2026-06-26</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-26: 3 contributions (1 additions, 2 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 3 contributions (1 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-26: 541 contributions (51 additions, 482 modifications, 8 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 168 contributions (19 additions, 149 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 53 contributions (2 additions, 50 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 15 contributions (7 additions, 8 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 305 contributions (23 additions, 275 modifications, 7 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-26</guid>
     </item>
     <item>
+        <title>Updates on 2026-06-25</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-25: 313 contributions (9 additions, 302 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 118 contributions (2 additions, 116 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 29 contributions (1 additions, 28 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 4 contributions (4 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 162 contributions (2 additions, 158 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-25</guid>
+    </item>
+    <item>
         <title>Updates on 2026-06-24</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-24: 130 contributions (124 additions, 6 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 10 contributions (10 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 6 contributions (6 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 81 contributions (81 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 33 contributions (27 additions, 6 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-24: 1080 contributions (210 additions, 865 modifications, 5 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 327 contributions (89 additions, 237 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 126 contributions (10 additions, 113 modifications, 3 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 22 contributions (13 additions, 9 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 605 contributions (98 additions, 506 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-24</guid>
     </item>
     <item>
         <title>Updates on 2026-06-23</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-23: 3 contributions (1 additions, 1 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 3 contributions (1 additions, 1 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-23: 1001 contributions (46 additions, 951 modifications, 4 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 307 contributions (16 additions, 289 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 80 contributions (2 additions, 78 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 31 contributions (4 additions, 26 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 583 contributions (24 additions, 558 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-23</guid>
     </item>
     <item>
         <title>Updates on 2026-06-22</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-22: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-22: 700 contributions (96 additions, 582 modifications, 22 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 189 contributions (32 additions, 148 modifications, 9 deletions)&lt;/li&gt;&lt;li&gt;crossings: 50 contributions (7 additions, 43 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 67 contributions (10 additions, 57 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 394 contributions (47 additions, 334 modifications, 13 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-22</guid>
     </item>
     <item>
+        <title>Updates on 2026-06-21</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-21: 516 contributions (36 additions, 475 modifications, 5 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 177 contributions (16 additions, 158 modifications, 3 deletions)&lt;/li&gt;&lt;li&gt;crossings: 43 contributions (1 additions, 42 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 28 contributions (4 additions, 24 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 268 contributions (15 additions, 251 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-21</guid>
+    </item>
+    <item>
         <title>Updates on 2026-06-20</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-20: 2 contributions (0 additions, 2 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 2 contributions (0 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-20: 248 contributions (31 additions, 205 modifications, 12 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 44 contributions (6 additions, 38 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 15 contributions (2 additions, 13 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 35 contributions (6 additions, 28 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 154 contributions (17 additions, 126 modifications, 11 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-20</guid>
     </item>
     <item>
         <title>Updates on 2026-06-19</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-19: 5 contributions (1 additions, 4 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 5 contributions (1 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-19: 177 contributions (25 additions, 149 modifications, 3 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 42 contributions (2 additions, 39 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 10 contributions (1 additions, 9 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 31 contributions (13 additions, 18 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 94 contributions (9 additions, 83 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-19</guid>
     </item>
     <item>
+        <title>Updates on 2026-06-18</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-18: 49 contributions (6 additions, 43 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 15 contributions (1 additions, 14 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 4 contributions (2 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 2 contributions (0 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 28 contributions (3 additions, 25 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-18</guid>
+    </item>
+    <item>
         <title>Updates on 2026-06-17</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-17: 2 contributions (1 additions, 1 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 2 contributions (1 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-17: 100 contributions (21 additions, 78 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 8 contributions (1 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 9 contributions (2 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 25 contributions (9 additions, 16 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 58 contributions (9 additions, 48 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-17</guid>
     </item>
     <item>
+        <title>Updates on 2026-06-16</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-16: 94 contributions (45 additions, 49 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 22 contributions (14 additions, 8 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 3 contributions (0 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 28 contributions (13 additions, 15 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 41 contributions (18 additions, 23 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-16</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-06-15</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-15: 187 contributions (13 additions, 174 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 62 contributions (4 additions, 58 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 8 contributions (0 additions, 8 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 8 contributions (4 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 109 contributions (5 additions, 104 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-15</guid>
+    </item>
+    <item>
         <title>Updates on 2026-06-14</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-14: 6 contributions (6 additions, 0 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 3 contributions (3 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 3 contributions (3 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-14: 158 contributions (36 additions, 122 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 46 contributions (9 additions, 37 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 7 contributions (0 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 31 contributions (17 additions, 14 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 74 contributions (10 additions, 64 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-14</guid>
     </item>
     <item>
+        <title>Updates on 2026-06-13</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-13: 274 contributions (29 additions, 228 modifications, 17 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 59 contributions (2 additions, 57 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 17 contributions (0 additions, 17 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 40 contributions (17 additions, 23 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 158 contributions (10 additions, 131 modifications, 17 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-13</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-06-12</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-12: 518 contributions (51 additions, 454 modifications, 13 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 160 contributions (14 additions, 145 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 42 contributions (1 additions, 39 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 81 contributions (22 additions, 58 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 235 contributions (14 additions, 212 modifications, 9 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-12</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-06-11</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-11: 228 contributions (55 additions, 172 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 21 contributions (4 additions, 17 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 5 contributions (0 additions, 5 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 104 contributions (35 additions, 69 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 98 contributions (16 additions, 81 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-11</guid>
+    </item>
+    <item>
         <title>Updates on 2026-06-10</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-10: 7 contributions (6 additions, 1 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 2 contributions (2 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 5 contributions (4 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-10: 1105 contributions (215 additions, 876 modifications, 14 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 314 contributions (61 additions, 252 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 153 contributions (35 additions, 114 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 46 contributions (13 additions, 33 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 592 contributions (106 additions, 477 modifications, 9 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-10</guid>
     </item>
     <item>
         <title>Updates on 2026-06-09</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-09: 12 contributions (0 additions, 4 modifications, 8 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 12 contributions (0 additions, 4 modifications, 8 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-09: 563 contributions (26 additions, 529 modifications, 8 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 168 contributions (6 additions, 159 modifications, 3 deletions)&lt;/li&gt;&lt;li&gt;crossings: 28 contributions (0 additions, 27 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 29 contributions (11 additions, 18 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 338 contributions (9 additions, 325 modifications, 4 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-09</guid>
     </item>
     <item>
         <title>Updates on 2026-06-08</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-08: 3 contributions (0 additions, 2 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 2 contributions (0 additions, 1 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-08: 612 contributions (14 additions, 598 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 240 contributions (3 additions, 237 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 24 contributions (0 additions, 24 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 9 contributions (2 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 339 contributions (9 additions, 330 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-08</guid>
     </item>
     <item>
         <title>Updates on 2026-06-07</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-07: 100 contributions (38 additions, 32 modifications, 30 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 32 contributions (18 additions, 10 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;crossings: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 67 contributions (20 additions, 21 modifications, 26 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-07: 373 contributions (44 additions, 328 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 96 contributions (5 additions, 90 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 25 contributions (1 additions, 24 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 39 contributions (21 additions, 18 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 213 contributions (17 additions, 196 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-07</guid>
     </item>
     <item>
+        <title>Updates on 2026-06-06</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-06: 379 contributions (46 additions, 331 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 95 contributions (1 additions, 94 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 35 contributions (0 additions, 34 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 77 contributions (40 additions, 37 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 172 contributions (5 additions, 166 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-06</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-06-05</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-05: 485 contributions (95 additions, 376 modifications, 14 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 181 contributions (32 additions, 147 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 20 contributions (1 additions, 17 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 58 contributions (29 additions, 25 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 226 contributions (33 additions, 187 modifications, 6 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-06-05</guid>
+    </item>
+    <item>
         <title>Updates on 2026-06-04</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-04: 106 contributions (58 additions, 36 modifications, 12 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 31 contributions (20 additions, 7 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 75 contributions (38 additions, 29 modifications, 8 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-04: 318 contributions (12 additions, 305 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 122 contributions (1 additions, 121 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 7 contributions (0 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 19 contributions (9 additions, 10 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 170 contributions (2 additions, 167 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-04</guid>
     </item>
     <item>
         <title>Updates on 2026-06-03</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-03: 28 contributions (9 additions, 13 modifications, 6 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 2 contributions (2 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 5 contributions (1 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 21 contributions (6 additions, 9 modifications, 6 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-03: 440 contributions (17 additions, 418 modifications, 5 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 154 contributions (1 additions, 151 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 28 contributions (0 additions, 28 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 25 contributions (11 additions, 14 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 233 contributions (5 additions, 225 modifications, 3 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-03</guid>
     </item>
     <item>
         <title>Updates on 2026-06-02</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-02: 77 contributions (73 additions, 4 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 18 contributions (18 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 19 contributions (19 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 40 contributions (36 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-02: 983 contributions (65 additions, 890 modifications, 28 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 341 contributions (18 additions, 317 modifications, 6 deletions)&lt;/li&gt;&lt;li&gt;crossings: 108 contributions (6 additions, 96 modifications, 6 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 26 contributions (11 additions, 15 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 508 contributions (30 additions, 462 modifications, 16 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-02</guid>
     </item>
     <item>
         <title>Updates on 2026-06-01</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-01: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-06-01: 740 contributions (77 additions, 638 modifications, 25 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 227 contributions (16 additions, 205 modifications, 6 deletions)&lt;/li&gt;&lt;li&gt;crossings: 88 contributions (12 additions, 72 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 31 contributions (18 additions, 13 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 394 contributions (31 additions, 348 modifications, 15 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-06-01</guid>
     </item>
     <item>
+        <title>Updates on 2026-05-31</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-31: 364 contributions (57 additions, 307 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 60 contributions (0 additions, 60 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 26 contributions (0 additions, 26 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 62 contributions (52 additions, 10 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 216 contributions (5 additions, 211 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-05-31</guid>
+    </item>
+    <item>
         <title>Updates on 2026-05-30</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-30: 74 contributions (6 additions, 68 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 5 contributions (0 additions, 5 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 15 contributions (0 additions, 15 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 3 contributions (0 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 51 contributions (6 additions, 45 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-30: 673 contributions (20 additions, 644 modifications, 9 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 211 contributions (0 additions, 207 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;crossings: 43 contributions (0 additions, 43 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 25 contributions (20 additions, 5 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 394 contributions (0 additions, 389 modifications, 5 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-30</guid>
     </item>
     <item>
         <title>Updates on 2026-05-29</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-29: 96 contributions (4 additions, 90 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;crossings: 33 contributions (0 additions, 33 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 62 contributions (4 additions, 56 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-29: 1038 contributions (65 additions, 958 modifications, 15 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 386 contributions (17 additions, 362 modifications, 7 deletions)&lt;/li&gt;&lt;li&gt;crossings: 64 contributions (2 additions, 62 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 27 contributions (12 additions, 15 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 561 contributions (34 additions, 519 modifications, 8 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-29</guid>
     </item>
     <item>
         <title>Updates on 2026-05-28</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-28: 57 contributions (25 additions, 19 modifications, 13 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 57 contributions (25 additions, 19 modifications, 13 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-28: 2052 contributions (161 additions, 1890 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 690 contributions (76 additions, 614 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 200 contributions (0 additions, 200 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 7 contributions (4 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 1155 contributions (81 additions, 1073 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-28</guid>
     </item>
     <item>
         <title>Updates on 2026-05-27</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-27: 25 contributions (1 additions, 6 modifications, 18 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 25 contributions (1 additions, 6 modifications, 18 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-27: 797 contributions (77 additions, 714 modifications, 6 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 293 contributions (29 additions, 262 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 66 contributions (0 additions, 65 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 23 contributions (11 additions, 12 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 415 contributions (37 additions, 375 modifications, 3 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-27</guid>
     </item>
     <item>
         <title>Updates on 2026-05-26</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-26: 51 contributions (1 additions, 16 modifications, 34 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 4 contributions (0 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 46 contributions (1 additions, 11 modifications, 34 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-26: 325 contributions (6 additions, 306 modifications, 13 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 81 contributions (1 additions, 76 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;crossings: 37 contributions (0 additions, 35 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 24 contributions (4 additions, 20 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 183 contributions (1 additions, 175 modifications, 7 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-26</guid>
     </item>
     <item>
         <title>Updates on 2026-05-25</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-25: 4 contributions (1 additions, 3 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 4 contributions (1 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-25: 2294 contributions (227 additions, 2067 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 945 contributions (103 additions, 842 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 131 contributions (1 additions, 130 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 35 contributions (14 additions, 21 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 1183 contributions (109 additions, 1074 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-25</guid>
     </item>
     <item>
         <title>Updates on 2026-05-24</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-24: 42 contributions (4 additions, 29 modifications, 9 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 7 contributions (1 additions, 6 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 34 contributions (3 additions, 22 modifications, 9 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-24: 201 contributions (7 additions, 193 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 4 contributions (0 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 7 contributions (3 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 189 contributions (4 additions, 184 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-24</guid>
     </item>
     <item>
+        <title>Updates on 2026-05-23</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-23: 560 contributions (67 additions, 491 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 58 contributions (21 additions, 37 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 5 contributions (0 additions, 5 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 27 contributions (12 additions, 14 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 470 contributions (34 additions, 435 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-05-23</guid>
+    </item>
+    <item>
         <title>Updates on 2026-05-22</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-22: 29 contributions (3 additions, 20 modifications, 6 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 3 contributions (2 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 3 contributions (0 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 2 contributions (0 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 21 contributions (1 additions, 14 modifications, 6 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-22: 896 contributions (76 additions, 820 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 200 contributions (1 additions, 199 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 81 contributions (1 additions, 80 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 85 contributions (72 additions, 13 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 530 contributions (2 additions, 528 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-22</guid>
     </item>
     <item>
         <title>Updates on 2026-05-21</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-21: 5 contributions (0 additions, 3 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 5 contributions (0 additions, 3 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-21: 1442 contributions (274 additions, 1139 modifications, 29 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 341 contributions (45 additions, 291 modifications, 5 deletions)&lt;/li&gt;&lt;li&gt;crossings: 211 contributions (80 additions, 123 modifications, 8 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 64 contributions (26 additions, 32 modifications, 6 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 826 contributions (123 additions, 693 modifications, 10 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-21</guid>
     </item>
     <item>
         <title>Updates on 2026-05-20</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-20: 18 contributions (1 additions, 7 modifications, 10 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 2 contributions (0 additions, 0 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 16 contributions (1 additions, 7 modifications, 8 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-20: 2380 contributions (603 additions, 1709 modifications, 68 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 616 contributions (109 additions, 501 modifications, 6 deletions)&lt;/li&gt;&lt;li&gt;crossings: 351 contributions (183 additions, 156 modifications, 12 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 195 contributions (24 additions, 148 modifications, 23 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 1218 contributions (287 additions, 904 modifications, 27 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-20</guid>
     </item>
     <item>
         <title>Updates on 2026-05-19</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-19: 6 contributions (1 additions, 4 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;kerbs: 1 contributions (0 additions, 0 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 5 contributions (1 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-19: 1286 contributions (520 additions, 700 modifications, 66 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 357 contributions (124 additions, 223 modifications, 10 deletions)&lt;/li&gt;&lt;li&gt;crossings: 206 contributions (142 additions, 55 modifications, 9 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 108 contributions (16 additions, 80 modifications, 12 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 615 contributions (238 additions, 342 modifications, 35 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-19</guid>
     </item>
     <item>
         <title>Updates on 2026-05-18</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-18: 5 contributions (2 additions, 3 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 5 contributions (2 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-18: 468 contributions (108 additions, 357 modifications, 3 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 132 contributions (32 additions, 99 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 40 contributions (8 additions, 32 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 65 contributions (28 additions, 37 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 231 contributions (40 additions, 189 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-18</guid>
     </item>
     <item>
         <title>Updates on 2026-05-17</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-17: 6 contributions (3 additions, 3 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 6 contributions (3 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-17: 242 contributions (43 additions, 199 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 42 contributions (3 additions, 39 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 22 contributions (2 additions, 20 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 70 contributions (31 additions, 39 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 108 contributions (7 additions, 101 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-17</guid>
     </item>
     <item>
         <title>Updates on 2026-05-16</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-16: 9 contributions (1 additions, 7 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 9 contributions (1 additions, 7 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-16: 81 contributions (14 additions, 65 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 15 contributions (0 additions, 15 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 7 contributions (0 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 15 contributions (8 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 44 contributions (6 additions, 36 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-16</guid>
     </item>
     <item>
         <title>Updates on 2026-05-15</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-15: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-15: 263 contributions (14 additions, 242 modifications, 7 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 76 contributions (1 additions, 72 modifications, 3 deletions)&lt;/li&gt;&lt;li&gt;crossings: 22 contributions (0 additions, 22 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 33 contributions (0 additions, 33 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 132 contributions (13 additions, 115 modifications, 4 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-15</guid>
     </item>
     <item>
         <title>Updates on 2026-05-14</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-14: 32 contributions (7 additions, 21 modifications, 4 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 4 contributions (1 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 3 contributions (2 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 1 contributions (0 additions, 0 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 24 contributions (4 additions, 17 modifications, 3 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-14: 538 contributions (140 additions, 397 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 107 contributions (46 additions, 61 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 38 contributions (14 additions, 24 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 20 contributions (3 additions, 17 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 373 contributions (77 additions, 295 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-14</guid>
     </item>
     <item>
         <title>Updates on 2026-05-13</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-13: 36 contributions (16 additions, 18 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 8 contributions (7 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 27 contributions (9 additions, 16 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-13: 507 contributions (36 additions, 435 modifications, 36 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 153 contributions (5 additions, 148 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 62 contributions (0 additions, 61 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 23 contributions (1 additions, 19 modifications, 3 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 269 contributions (30 additions, 207 modifications, 32 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-13</guid>
     </item>
     <item>
         <title>Updates on 2026-05-12</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-12: 9 contributions (0 additions, 4 modifications, 5 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 9 contributions (0 additions, 4 modifications, 5 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-12: 1381 contributions (600 additions, 763 modifications, 18 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 429 contributions (197 additions, 230 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 154 contributions (73 additions, 80 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 121 contributions (53 additions, 66 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 677 contributions (277 additions, 387 modifications, 13 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-12</guid>
     </item>
     <item>
         <title>Updates on 2026-05-11</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-11: 122 contributions (16 additions, 105 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 24 contributions (7 additions, 17 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 6 contributions (1 additions, 5 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 5 contributions (0 additions, 5 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 87 contributions (8 additions, 78 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-11: 833 contributions (299 additions, 508 modifications, 26 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 245 contributions (93 additions, 147 modifications, 5 deletions)&lt;/li&gt;&lt;li&gt;crossings: 114 contributions (43 additions, 65 modifications, 6 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 78 contributions (33 additions, 39 modifications, 6 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 396 contributions (130 additions, 257 modifications, 9 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-11</guid>
     </item>
     <item>
+        <title>Updates on 2026-05-10</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-10: 127 contributions (28 additions, 99 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 28 contributions (4 additions, 24 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 7 contributions (0 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 3 contributions (0 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 89 contributions (24 additions, 65 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-05-10</guid>
+    </item>
+    <item>
         <title>Updates on 2026-05-09</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-09: 78 contributions (17 additions, 51 modifications, 10 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 3 contributions (2 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 6 contributions (0 additions, 4 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 69 contributions (15 additions, 46 modifications, 8 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-09: 784 contributions (289 additions, 495 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 240 contributions (87 additions, 153 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 111 contributions (44 additions, 67 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 38 contributions (11 additions, 27 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 395 contributions (147 additions, 248 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-09</guid>
     </item>
     <item>
         <title>Updates on 2026-05-08</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-08: 32 contributions (7 additions, 22 modifications, 3 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 12 contributions (3 additions, 9 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 1 contributions (0 additions, 0 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 19 contributions (4 additions, 13 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-08: 544 contributions (153 additions, 385 modifications, 6 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 128 contributions (36 additions, 91 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 74 contributions (17 additions, 55 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 105 contributions (49 additions, 56 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 237 contributions (51 additions, 183 modifications, 3 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-08</guid>
     </item>
     <item>
         <title>Updates on 2026-05-07</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-07: 188 contributions (32 additions, 15 modifications, 141 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 17 contributions (15 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 171 contributions (17 additions, 13 modifications, 141 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-07: 290 contributions (69 additions, 219 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 51 contributions (4 additions, 47 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 17 contributions (2 additions, 15 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 105 contributions (50 additions, 55 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 117 contributions (13 additions, 102 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-07</guid>
     </item>
     <item>
         <title>Updates on 2026-05-06</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-06: 30 contributions (6 additions, 22 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;crossings: 4 contributions (0 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 6 contributions (6 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 20 contributions (0 additions, 18 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-06: 380 contributions (33 additions, 341 modifications, 6 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 93 contributions (0 additions, 92 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 26 contributions (0 additions, 26 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 55 contributions (23 additions, 30 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 206 contributions (10 additions, 193 modifications, 3 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-06</guid>
     </item>
     <item>
         <title>Updates on 2026-05-05</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-05: 18 contributions (4 additions, 7 modifications, 7 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 2 contributions (1 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 16 contributions (3 additions, 6 modifications, 7 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-05: 2135 contributions (186 additions, 1947 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 611 contributions (38 additions, 572 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 170 contributions (18 additions, 152 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 98 contributions (62 additions, 36 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 1256 contributions (68 additions, 1187 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-05</guid>
     </item>
     <item>
+        <title>Updates on 2026-05-04</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-04: 270 contributions (30 additions, 236 modifications, 4 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 63 contributions (0 additions, 63 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 21 contributions (0 additions, 21 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 63 contributions (26 additions, 37 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 123 contributions (4 additions, 115 modifications, 4 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-05-04</guid>
+    </item>
+    <item>
         <title>Updates on 2026-05-03</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-03: 61 contributions (13 additions, 16 modifications, 32 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 4 contributions (3 additions, 0 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 56 contributions (10 additions, 15 modifications, 31 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-03: 478 contributions (17 additions, 460 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 128 contributions (0 additions, 128 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 18 contributions (0 additions, 18 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 21 contributions (12 additions, 9 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 311 contributions (5 additions, 305 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-05-03</guid>
     </item>
     <item>
+        <title>Updates on 2026-05-02</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-02: 1258 contributions (50 additions, 1206 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 379 contributions (2 additions, 377 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 58 contributions (0 additions, 58 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 70 contributions (42 additions, 27 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 751 contributions (6 additions, 744 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-05-02</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-05-01</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-05-01: 1254 contributions (17 additions, 1237 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 454 contributions (4 additions, 450 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 122 contributions (1 additions, 121 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 9 contributions (2 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 669 contributions (10 additions, 659 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-05-01</guid>
+    </item>
+    <item>
         <title>Updates on 2026-04-30</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-30: 4 contributions (0 additions, 4 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 4 contributions (0 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-30: 352 contributions (11 additions, 341 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 137 contributions (0 additions, 137 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 20 contributions (3 additions, 17 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 6 contributions (4 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 189 contributions (4 additions, 185 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-30</guid>
     </item>
     <item>
+        <title>Updates on 2026-04-29</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-29: 506 contributions (16 additions, 489 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 85 contributions (0 additions, 85 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 28 contributions (1 additions, 27 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 32 contributions (14 additions, 18 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 361 contributions (1 additions, 359 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-29</guid>
+    </item>
+    <item>
         <title>Updates on 2026-04-28</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-28: 90 contributions (73 additions, 15 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 3 contributions (3 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 8 contributions (5 additions, 2 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 79 contributions (65 additions, 13 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-28: 171 contributions (54 additions, 116 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 25 contributions (7 additions, 18 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 15 contributions (0 additions, 15 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 46 contributions (20 additions, 25 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 85 contributions (27 additions, 58 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-28</guid>
     </item>
     <item>
+        <title>Updates on 2026-04-27</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-27: 221 contributions (9 additions, 211 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 49 contributions (0 additions, 49 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 14 contributions (0 additions, 14 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 10 contributions (9 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 148 contributions (0 additions, 147 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-27</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-04-26</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-26: 195 contributions (47 additions, 138 modifications, 10 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 54 contributions (13 additions, 39 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 24 contributions (9 additions, 14 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 18 contributions (3 additions, 11 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 99 contributions (22 additions, 74 modifications, 3 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-26</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-04-25</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-25: 941 contributions (161 additions, 780 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 396 contributions (54 additions, 342 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 53 contributions (22 additions, 31 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 20 contributions (6 additions, 14 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 472 contributions (79 additions, 393 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-25</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-04-24</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-24: 200 contributions (14 additions, 186 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 63 contributions (2 additions, 61 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 17 contributions (0 additions, 17 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 19 contributions (6 additions, 13 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 101 contributions (6 additions, 95 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-24</guid>
+    </item>
+    <item>
         <title>Updates on 2026-04-23</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-23: 6 contributions (0 additions, 4 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 6 contributions (0 additions, 4 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-23: 457 contributions (284 additions, 170 modifications, 3 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 124 contributions (86 additions, 38 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 76 contributions (57 additions, 18 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 42 contributions (0 additions, 42 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 215 contributions (141 additions, 72 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-23</guid>
     </item>
     <item>
         <title>Updates on 2026-04-22</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-22: 6 contributions (1 additions, 5 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 6 contributions (1 additions, 5 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-22: 1348 contributions (87 additions, 1259 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 540 contributions (28 additions, 512 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 75 contributions (1 additions, 73 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 52 contributions (18 additions, 34 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 681 contributions (40 additions, 640 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-22</guid>
     </item>
     <item>
         <title>Updates on 2026-04-21</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-21: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-21: 224 contributions (42 additions, 182 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 60 contributions (0 additions, 60 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 18 contributions (0 additions, 18 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 57 contributions (39 additions, 18 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 89 contributions (3 additions, 86 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-21</guid>
     </item>
     <item>
         <title>Updates on 2026-04-20</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-20: 3 contributions (0 additions, 3 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 2 contributions (0 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-20: 1166 contributions (318 additions, 845 modifications, 3 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 325 contributions (114 additions, 211 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 116 contributions (28 additions, 86 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 86 contributions (32 additions, 54 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 639 contributions (144 additions, 494 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-20</guid>
     </item>
     <item>
+        <title>Updates on 2026-04-19</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-19: 2343 contributions (157 additions, 2159 modifications, 27 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 711 contributions (38 additions, 669 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;crossings: 196 contributions (24 additions, 167 modifications, 5 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 87 contributions (33 additions, 45 modifications, 9 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 1349 contributions (62 additions, 1278 modifications, 9 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-19</guid>
+    </item>
+    <item>
         <title>Updates on 2026-04-18</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-18: 7 contributions (3 additions, 4 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 7 contributions (3 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-18: 3442 contributions (4 additions, 3437 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 1297 contributions (0 additions, 1297 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 164 contributions (0 additions, 163 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 7 contributions (0 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 1974 contributions (4 additions, 1970 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-18</guid>
     </item>
     <item>
         <title>Updates on 2026-04-17</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-17: 23 contributions (0 additions, 23 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 9 contributions (0 additions, 9 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 2 contributions (0 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 11 contributions (0 additions, 11 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-17: 780 contributions (20 additions, 751 modifications, 9 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 234 contributions (4 additions, 229 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 47 contributions (1 additions, 44 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 42 contributions (9 additions, 33 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 457 contributions (6 additions, 445 modifications, 6 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-17</guid>
     </item>
     <item>
         <title>Updates on 2026-04-16</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-16: 6 contributions (2 additions, 4 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 6 contributions (2 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-16: 899 contributions (31 additions, 868 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 184 contributions (0 additions, 184 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 28 contributions (0 additions, 28 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 47 contributions (27 additions, 20 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 640 contributions (4 additions, 636 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-16</guid>
     </item>
     <item>
         <title>Updates on 2026-04-15</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-15: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-15: 1121 contributions (50 additions, 1052 modifications, 19 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 403 contributions (13 additions, 384 modifications, 6 deletions)&lt;/li&gt;&lt;li&gt;crossings: 86 contributions (5 additions, 79 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 42 contributions (4 additions, 37 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 590 contributions (28 additions, 552 modifications, 10 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-15</guid>
     </item>
     <item>
+        <title>Updates on 2026-04-14</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-14: 392 contributions (52 additions, 293 modifications, 47 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 53 contributions (4 additions, 39 modifications, 10 deletions)&lt;/li&gt;&lt;li&gt;crossings: 23 contributions (2 additions, 12 modifications, 9 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 55 contributions (29 additions, 18 modifications, 8 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 261 contributions (17 additions, 224 modifications, 20 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-14</guid>
+    </item>
+    <item>
         <title>Updates on 2026-04-13</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-13: 3 contributions (1 additions, 2 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 3 contributions (1 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-13: 417 contributions (91 additions, 319 modifications, 7 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 92 contributions (7 additions, 83 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 27 contributions (1 additions, 25 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 137 contributions (73 additions, 63 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 161 contributions (10 additions, 148 modifications, 3 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-13</guid>
     </item>
     <item>
+        <title>Updates on 2026-04-12</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-12: 84 contributions (12 additions, 70 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 14 contributions (0 additions, 14 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 2 contributions (0 additions, 1 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 32 contributions (12 additions, 20 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 36 contributions (0 additions, 35 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-12</guid>
+    </item>
+    <item>
         <title>Updates on 2026-04-11</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-11: 69 contributions (33 additions, 34 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 14 contributions (10 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 7 contributions (1 additions, 5 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 48 contributions (22 additions, 25 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-11: 1203 contributions (55 additions, 1148 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 235 contributions (0 additions, 235 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 33 contributions (0 additions, 33 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 169 contributions (50 additions, 119 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 766 contributions (5 additions, 761 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-11</guid>
     </item>
     <item>
         <title>Updates on 2026-04-10</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-10: 18 contributions (0 additions, 18 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 6 contributions (0 additions, 6 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 4 contributions (0 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 7 contributions (0 additions, 7 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-10: 210 contributions (30 additions, 162 modifications, 18 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 50 contributions (1 additions, 46 modifications, 3 deletions)&lt;/li&gt;&lt;li&gt;crossings: 10 contributions (0 additions, 7 modifications, 3 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 53 contributions (25 additions, 24 modifications, 4 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 97 contributions (4 additions, 85 modifications, 8 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-10</guid>
     </item>
     <item>
         <title>Updates on 2026-04-09</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-09: 4 contributions (0 additions, 4 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 4 contributions (0 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-09: 189 contributions (44 additions, 135 modifications, 10 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 35 contributions (1 additions, 32 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 14 contributions (3 additions, 9 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 65 contributions (29 additions, 34 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 75 contributions (11 additions, 60 modifications, 4 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-09</guid>
     </item>
     <item>
         <title>Updates on 2026-04-08</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-08: 11 contributions (0 additions, 11 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 11 contributions (0 additions, 11 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-08: 282 contributions (14 additions, 268 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 73 contributions (2 additions, 71 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 14 contributions (0 additions, 14 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 24 contributions (9 additions, 15 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 171 contributions (3 additions, 168 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-08</guid>
     </item>
     <item>
+        <title>Updates on 2026-04-07</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-07: 572 contributions (49 additions, 515 modifications, 8 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 177 contributions (0 additions, 175 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 44 contributions (0 additions, 43 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 85 contributions (42 additions, 41 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 266 contributions (7 additions, 256 modifications, 3 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-07</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-04-06</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-06: 69 contributions (20 additions, 49 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 11 contributions (3 additions, 8 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 13 contributions (4 additions, 9 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 7 contributions (1 additions, 6 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 38 contributions (12 additions, 26 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-06</guid>
+    </item>
+    <item>
+        <title>Updates on 2026-04-05</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-05: 111 contributions (49 additions, 61 modifications, 1 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 14 contributions (0 additions, 14 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 8 contributions (5 additions, 3 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 34 contributions (23 additions, 11 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 55 contributions (21 additions, 33 modifications, 1 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-05</guid>
+    </item>
+    <item>
         <title>Updates on 2026-04-04</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-04: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-04: 199 contributions (24 additions, 173 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 43 contributions (3 additions, 40 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 20 contributions (1 additions, 19 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 34 contributions (13 additions, 21 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 102 contributions (7 additions, 93 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-04</guid>
     </item>
     <item>
         <title>Updates on 2026-04-03</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-03: 12 contributions (1 additions, 11 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 12 contributions (1 additions, 11 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-03: 93 contributions (38 additions, 55 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 18 contributions (4 additions, 14 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 9 contributions (5 additions, 4 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 24 contributions (13 additions, 11 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 42 contributions (16 additions, 26 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-03</guid>
     </item>
     <item>
+        <title>Updates on 2026-04-02</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-02: 41 contributions (10 additions, 31 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 9 contributions (0 additions, 9 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 2 contributions (0 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 8 contributions (6 additions, 2 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 22 contributions (4 additions, 18 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-04-02</guid>
+    </item>
+    <item>
         <title>Updates on 2026-04-01</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-01: 2 contributions (1 additions, 1 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 2 contributions (1 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-04-01: 646 contributions (44 additions, 600 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 182 contributions (4 additions, 176 modifications, 2 deletions)&lt;/li&gt;&lt;li&gt;crossings: 34 contributions (2 additions, 32 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 62 contributions (30 additions, 32 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 368 contributions (8 additions, 360 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-04-01</guid>
     </item>
     <item>
         <title>Updates on 2026-03-31</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-03-31: 4 contributions (0 additions, 2 modifications, 2 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;other_footways: 4 contributions (0 additions, 2 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-03-31: 130 contributions (46 additions, 78 modifications, 6 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 21 contributions (4 additions, 17 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 22 contributions (10 additions, 9 modifications, 3 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 20 contributions (7 additions, 13 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 67 contributions (25 additions, 39 modifications, 3 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-03-31</guid>
     </item>
     <item>
+        <title>Updates on 2026-03-30</title>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-03-30: 222 contributions (28 additions, 194 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 43 contributions (2 additions, 41 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 24 contributions (0 additions, 24 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 63 contributions (21 additions, 42 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 92 contributions (5 additions, 87 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-03-30</guid>
+    </item>
+    <item>
         <title>Updates on 2026-03-29</title>
-        <link>https://kauevestena.github.io/opensidewalkmap_beta/hub/watcher/index.html</link>
-        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-03-29: 25 contributions (7 additions, 15 modifications, 3 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 9 contributions (2 additions, 6 modifications, 1 deletions)&lt;/li&gt;&lt;li&gt;crossings: 1 contributions (1 additions, 0 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 1 contributions (0 additions, 1 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 14 contributions (4 additions, 8 modifications, 2 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
+        <description>&lt;p&gt;&lt;strong&gt;Total for 2026-03-29: 467 contributions (21 additions, 446 modifications, 0 deletions)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sidewalks: 120 contributions (1 additions, 119 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;crossings: 65 contributions (0 additions, 65 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;kerbs: 59 contributions (18 additions, 41 modifications, 0 deletions)&lt;/li&gt;&lt;li&gt;other_footways: 223 contributions (2 additions, 221 modifications, 0 deletions)&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
         <guid isPermaLink="false">2026-03-29</guid>
     </item>

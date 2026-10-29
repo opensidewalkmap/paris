@@ -1,0 +1,52 @@
+{
+    "184795219": {
+        "id": 184795219,
+        "user": "Robmrt",
+        "uid": 24161839,
+        "created_at": "2026-06-29T13:13:22Z",
+        "closed_at": "2026-06-29T13:13:26Z",
+        "changes_count": 10000,
+        "comment": "Revert des changesets 184785404, \n184785431, \n184785433, \n184785441, \n184785446, \n184785452, dans l'ordre avec JOSM Reverter. Milles excuses !",
+        "created_by": "reverter_plugin/36474;JOSM/1.5 (19481 fr)"
+    },
+    "184795234": {
+        "id": 184795234,
+        "user": "Robmrt",
+        "uid": 24161839,
+        "created_at": "2026-06-29T13:13:39Z",
+        "closed_at": "2026-06-29T13:13:43Z",
+        "changes_count": 10000,
+        "comment": "Revert des changesets 184785404, \n184785431, \n184785433, \n184785441, \n184785446, \n184785452, dans l'ordre avec JOSM Reverter. Milles excuses !",
+        "created_by": "reverter_plugin/36474;JOSM/1.5 (19481 fr)"
+    },
+    "184795228": {
+        "id": 184795228,
+        "user": "Robmrt",
+        "uid": 24161839,
+        "created_at": "2026-06-29T13:13:35Z",
+        "closed_at": "2026-06-29T13:13:39Z",
+        "changes_count": 10000,
+        "comment": "Revert des changesets 184785404, \n184785431, \n184785433, \n184785441, \n184785446, \n184785452, dans l'ordre avec JOSM Reverter. Milles excuses !",
+        "created_by": "reverter_plugin/36474;JOSM/1.5 (19481 fr)"
+    },
+    "184795226": {
+        "id": 184795226,
+        "user": "Robmrt",
+        "uid": 24161839,
+        "created_at": "2026-06-29T13:13:31Z",
+        "closed_at": "2026-06-29T13:13:34Z",
+        "changes_count": 10000,
+        "comment": "Revert des changesets 184785404, \n184785431, \n184785433, \n184785441, \n184785446, \n184785452, dans l'ordre avec JOSM Reverter. Milles excuses !",
+        "created_by": "reverter_plugin/36474;JOSM/1.5 (19481 fr)"
+    },
+    "184795235": {
+        "id": 184795235,
+        "user": "Robmrt",
+        "uid": 24161839,
+        "created_at": "2026-06-29T13:13:43Z",
+        "closed_at": "2026-06-29T13:13:45Z",
+        "changes_count": 3588,
+        "comment": "Revert des changesets 184785404, \n184785431, \n184785433, \n184785441, \n184785446, \n184785452, dans l'ordre avec JOSM Reverter. Milles excuses !",
+        "created_by": "reverter_plugin/36474;JOSM/1.5 (19481 fr)"
+    }
+}

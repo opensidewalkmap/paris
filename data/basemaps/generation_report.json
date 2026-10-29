@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "renderer_version": 3,
-  "node": "Curitiba",
+  "node": "Paris, France",
   "bounds": [
-    -49.38914,
-    -25.6435043,
-    -49.1843182,
-    -25.3449505
+    2.224122,
+    48.8155755,
+    2.4697602,
+    48.902156
   ],
   "source": {
     "tilejson": "https://tiles.openfreemap.org/planet",
-    "versioned_template": "https://tiles.openfreemap.org/planet/20260913_164504_pt/{z}/{x}/{y}.pbf",
+    "versioned_template": "https://tiles.openfreemap.org/planet/20261025_080012_pt/{z}/{x}/{y}.pbf",
     "attribution": "Basemap \u00a9 OpenFreeMap, \u00a9 OpenMapTiles; data \u00a9 OpenStreetMap contributors",
     "style_basis": {
       "light": "OpenFreeMap Positron",
@@ -20,18 +20,18 @@
   "min_zoom": 10,
   "requested_max_zoom": 16,
   "actual_max_zoom": 16,
-  "tile_count_per_archive": 3229,
+  "tile_count_per_archive": 1574,
   "jpeg_quality": 82,
   "size_limit_bytes": 99614720,
   "outputs": {
     "light": {
       "path": "data/basemaps/light.pmtiles",
-      "bytes": 33138785
+      "bytes": 22124145
     },
     "dark": {
       "path": "data/basemaps/dark.pmtiles",
-      "bytes": 35556488
+      "bytes": 25390876
     }
   },
-  "elapsed_seconds": 83.04260787599998
+  "elapsed_seconds": 95.18612002600003
 }

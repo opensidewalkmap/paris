@@ -30,30 +30,30 @@
     ],
     "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
   },
-  "identifier": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/versioning/index.json",
+  "identifier": "https://opensidewalkmap.github.io/paris/metadata/updates/versioning/index.json",
   "resource_type": "collection",
-  "title": "Curitiba — Update and version history — Versioning",
+  "title": "Paris, France — Update and version history — Versioning",
   "abstract": "Refresh status, OSM changeset monitoring, and feature-version history. This collection mirrors data/updates/versioning without changing the source data directory.",
   "language": "en",
   "responsible_parties": [
     {
-      "name": "kauevestena",
+      "name": "opensidewalkmap",
       "role": "pointOfContact",
-      "url": "https://github.com/kauevestena"
+      "url": "https://github.com/opensidewalkmap"
     },
     {
       "name": "OpenSidewalkMap",
       "role": "publisher",
-      "url": "https://github.com/kauevestena/opensidewalkmap_beta"
+      "url": "https://github.com/opensidewalkmap/paris"
     }
   ],
   "spatial": {
     "scope": "node_coverage",
     "bbox": [
-      -49.38914,
-      -25.6435043,
-      -49.1843182,
-      -25.3449505
+      2.224122,
+      48.8155755,
+      2.4697602,
+      48.902156
     ],
     "bbox_order": [
       "west",
@@ -62,22 +62,17 @@
       "north"
     ],
     "reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
-    "geometry": "https://kauevestena.github.io/opensidewalkmap_beta/data/boundaries/polygon.geojson"
+    "geometry": "https://opensidewalkmap.github.io/paris/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-29T14:37:09+00:00",
+    "updated": "2026-10-29T22:31:18+00:00",
     "node_registry": {
-      "Data Fetching": "2026-10-08T14:47:42Z",
-      "Data Pre-Processing": "2026-10-29T14:32:45Z",
-      "Webmap Generation": "28/08/2024 07:33:01",
-      "Statistical Charts": "2026-10-29T14:37:09Z",
-      "Wiki check for keys": "2026-10-25T13:15:04Z",
-      "Data Quality Tool": "2026-10-29T14:34:03Z",
-      "Versioning Data": "2026-10-25T13:11:53Z",
-      "Completeness Analysis": "2026-10-29T14:36:56Z",
-      "Completeness Analysis (Alt)": "17/07/2026 13:23:15",
-      "OSWM Codebase Revision": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
-      "Pipeline Success": "2026-10-28T14:13:04Z"
+      "Data Fetching": "2026-10-28T21:21:02Z",
+      "Versioning Data": "2026-10-29T22:06:23Z",
+      "Data Pre-Processing": "2026-10-29T22:06:40Z",
+      "Data Quality Tool": "2026-10-29T22:27:53Z",
+      "Completeness Analysis": "2026-10-29T22:31:00Z",
+      "Statistical Charts": "2026-10-29T22:31:18Z"
     }
   },
   "lineage": {
@@ -92,7 +87,7 @@
     "scope": "resource",
     "standard": "ISO 19157-1:2023",
     "statement": "The record reports provenance and technical integrity. It does not assert a universal fitness-for-use threshold.",
-    "related_report": "https://kauevestena.github.io/opensidewalkmap_beta/quality_check/index.json"
+    "related_report": "https://opensidewalkmap.github.io/paris/quality_check/index.json"
   },
   "rights": {
     "statement": "Licensing and attribution follow the upstream sources and the specific distribution being described."
@@ -100,7 +95,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-29T14:37:09+00:00",
+    "generated_at": "2026-10-29T22:31:18+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
@@ -112,50 +107,50 @@
   "assets": [
     {
       "title": "Crossings Versioning",
-      "resource": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/versioning/crossings_versioning.json",
-      "metadata": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/versioning/crossings_versioning.json.metadata.json",
+      "resource": "https://opensidewalkmap.github.io/paris/data/updates/versioning/crossings_versioning.json",
+      "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/versioning/crossings_versioning.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 136992,
+      "byte_size": 1371503,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7ae4885e901b4295668bea85a06734497073dfe088f4036a4d4cf462dea9a043"
+        "value": "5f15e631920f9b8222125933d35bc3ca644d962dc5e91c15efa785d48915103d"
       }
     },
     {
       "title": "Kerbs Versioning",
-      "resource": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/versioning/kerbs_versioning.json",
-      "metadata": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/versioning/kerbs_versioning.json.metadata.json",
+      "resource": "https://opensidewalkmap.github.io/paris/data/updates/versioning/kerbs_versioning.json",
+      "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/versioning/kerbs_versioning.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 177083,
+      "byte_size": 2324443,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "288daabb1a97434779c95d65aa6392a499f28ca9c88fb93a4dde6f4beb6ecaf0"
+        "value": "ad257bce13a901d38c8d885df75977eaa726ab349cdea667bc823da51f694d35"
       }
     },
     {
       "title": "Other Footways Versioning",
-      "resource": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/versioning/other_footways_versioning.json",
-      "metadata": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/versioning/other_footways_versioning.json.metadata.json",
+      "resource": "https://opensidewalkmap.github.io/paris/data/updates/versioning/other_footways_versioning.json",
+      "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/versioning/other_footways_versioning.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 398775,
+      "byte_size": 2092540,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8cd22f17a820d8804c5e2da56e6327363ebd8a28373df3132d3ba111a1f966e6"
+        "value": "fb70ed6e0e52751dba2a00992dd9db820ef8932137f3aa4776ca59f51b8ded17"
       }
     },
     {
       "title": "Sidewalks Versioning",
-      "resource": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/versioning/sidewalks_versioning.json",
-      "metadata": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/versioning/sidewalks_versioning.json.metadata.json",
+      "resource": "https://opensidewalkmap.github.io/paris/data/updates/versioning/sidewalks_versioning.json",
+      "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/versioning/sidewalks_versioning.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 470551,
+      "byte_size": 3136025,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "1dfaf451614c0b15d7089912a207152dbd8d3d7fe8612c007dc394ed193eaaad"
+        "value": "7bcd320822efc98813aaa9e21f73cf7c708a1d8bb82eb83c7a5d7d254f2569ab"
       }
     }
   ],
@@ -163,17 +158,17 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/versioning/index.json",
+      "href": "https://opensidewalkmap.github.io/paris/metadata/updates/versioning/index.json",
       "type": "application/json"
     },
     {
       "rel": "describes",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/versioning/",
+      "href": "https://opensidewalkmap.github.io/paris/data/updates/versioning/",
       "type": "text/html"
     },
     {
       "rel": "collection",
-      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/index.json",
+      "href": "https://opensidewalkmap.github.io/paris/metadata/updates/index.json",
       "type": "application/json"
     }
   ]

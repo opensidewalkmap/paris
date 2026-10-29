@@ -1,1 +1,3 @@
 osm_id,feat_type,key,value,commentary
+732075777,way,ANY (check at feature link),fixme=à mettre à jour avec agrandissement 2026,The '=' character is used ONLY in textual representation of tags to separate the key from the value
+1198954354,way,ANY (check at feature link),https://www.mapillary.com/app/?lat=48.85243300000002&lng=2.360564000000096&z=17.638812199791918&pKey=2NBP9ePySONUwq8c2Sqc2Q&focus=photo,The '=' character is used ONLY in textual representation of tags to separate the key from the value

@@ -1,0 +1,9 @@
+{
+    "provider": "geofabrik_pbf",
+    "region": "ile-de-france",
+    "source_url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf",
+    "snapshot_timestamp": "2026-10-28T21:21:02Z",
+    "acquired_at": "2026-10-29T22:03:49Z",
+    "sha256": "34bfa7ea15a62e779554d771e12d15fe05aede4d5b064faa3ef5d2d91df49dac",
+    "cache_hit": false
+}
