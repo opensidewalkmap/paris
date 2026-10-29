@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/data_daily_updating.yml"
+      - "config.py"
   schedule:
     - cron: "30 7 * * *"
   workflow_dispatch:
