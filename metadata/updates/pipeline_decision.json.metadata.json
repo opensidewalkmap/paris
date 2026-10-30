@@ -34,14 +34,16 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-10-29T22:31:18+00:00",
+    "updated": "2026-10-29T23:15:48+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-28T21:21:02Z",
       "Versioning Data": "2026-10-29T22:06:23Z",
       "Data Pre-Processing": "2026-10-29T22:06:40Z",
       "Data Quality Tool": "2026-10-29T22:27:53Z",
       "Completeness Analysis": "2026-10-29T22:31:00Z",
-      "Statistical Charts": "2026-10-29T22:31:18Z"
+      "Statistical Charts": "2026-10-29T22:31:18Z",
+      "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
+      "Pipeline Success": "2026-10-29T23:15:48Z"
     }
   },
   "lineage": {
@@ -64,7 +66,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-29T22:31:18+00:00",
+    "generated_at": "2026-10-29T23:15:48+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
@@ -79,10 +81,10 @@
     "download_url": "https://opensidewalkmap.github.io/paris/data/updates/pipeline_decision.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 770,
+    "byte_size": 353,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "aa0634f071a88844d231ed5cb8cb9cd8ab3a84d5f9330a90672ba94ff2faa169"
+      "value": "0766d323e8b7b4d46361b786ada79d294a46ef9b784311eab3505b47d080ec61"
     }
   },
   "links": [

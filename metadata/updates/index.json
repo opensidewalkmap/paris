@@ -65,14 +65,16 @@
     "geometry": "https://opensidewalkmap.github.io/paris/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-29T22:31:18+00:00",
+    "updated": "2026-10-29T23:15:48+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-28T21:21:02Z",
       "Versioning Data": "2026-10-29T22:06:23Z",
       "Data Pre-Processing": "2026-10-29T22:06:40Z",
       "Data Quality Tool": "2026-10-29T22:27:53Z",
       "Completeness Analysis": "2026-10-29T22:31:00Z",
-      "Statistical Charts": "2026-10-29T22:31:18Z"
+      "Statistical Charts": "2026-10-29T22:31:18Z",
+      "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
+      "Pipeline Success": "2026-10-29T23:15:48Z"
     }
   },
   "lineage": {
@@ -95,7 +97,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-29T22:31:18+00:00",
+    "generated_at": "2026-10-29T23:15:48+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
@@ -118,6 +120,18 @@
       }
     },
     {
+      "title": "Changeset Cache",
+      "resource": "https://opensidewalkmap.github.io/paris/data/updates/changeset_cache.json",
+      "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/changeset_cache.json.metadata.json",
+      "media_type": "application/json",
+      "format": "JSON",
+      "byte_size": 2306,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "45bd12e967ea5b3c736917a7504980bb6fb137b5a85e970bed49d7fe27dd92c9"
+      }
+    },
+    {
       "title": "Index",
       "resource": "https://opensidewalkmap.github.io/paris/data/updates/index.html",
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/index.html.metadata.json",
@@ -135,10 +149,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/pipeline_decision.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 770,
+      "byte_size": 353,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "aa0634f071a88844d231ed5cb8cb9cd8ab3a84d5f9330a90672ba94ff2faa169"
+        "value": "0766d323e8b7b4d46361b786ada79d294a46ef9b784311eab3505b47d080ec61"
       }
     },
     {
@@ -147,10 +161,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/registry.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 297,
+      "byte_size": 420,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "169806654259acab604fcee99e81b85800e4ca7c26a62887b858c4b20aa0b9d8"
+        "value": "2927dd24efe311607e1d6e8f16da58d4763a13a8570ee51b5e4ade11b16ba488"
       }
     },
     {
@@ -159,10 +173,34 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/watcher_decision.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 226,
+      "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "060a466494d6709b796939e139a5e6d2f8fcdb0b4a535aa79a810a95c338294b"
+        "value": "48dcdd36647f0353be672f2332ef50b5df2ba77814fa0685044cb5a66ec1b1a9"
+      }
+    },
+    {
+      "title": "Watcher History",
+      "resource": "https://opensidewalkmap.github.io/paris/data/updates/watcher_history.json",
+      "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/watcher_history.json.metadata.json",
+      "media_type": "application/json",
+      "format": "JSON",
+      "byte_size": 94791,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "a1fc79ecc836ca8103e491b4459c3be6bece699186f752a7ccd7a5fa35945307"
+      }
+    },
+    {
+      "title": "Yesterday",
+      "resource": "https://opensidewalkmap.github.io/paris/data/updates/yesterday.json",
+      "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/yesterday.json.metadata.json",
+      "media_type": "application/json",
+      "format": "JSON",
+      "byte_size": 7157,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "e1f7c4dd2a4a6b31f99121766b433bbd1eba628d79ea3cdcac7fcdb352f9b1bf"
       }
     }
   ],
