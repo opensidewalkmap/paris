@@ -4,283 +4,235 @@
     <title>OSWM Watcher Changeset Activity - Paris, France</title>
     <link>https://opensidewalkmap.github.io/paris/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Paris, France.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 17:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:27:41 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 191339111 by SerpentSlayer (0 additions, 14 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191339111</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191339111&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/SerpentSlayer&quot;&gt;SerpentSlayer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; +wikidata&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191385086 by Luca Giovannangeli (21 additions, 14 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191385086</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191385086&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Luca Giovannangeli&quot;&gt;Luca Giovannangeli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Modifications de tracés de rues et d&amp;#x27;infrastructures à Montreuil&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 21&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 14&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191339111&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191339111&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191385086&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191385086&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 21:20:31 GMT</pubDate>
-        <guid isPermaLink="false">activity_191339111</guid>
+        <pubDate>Mon, 02 Nov 2026 19:40:29 GMT</pubDate>
+        <guid isPermaLink="false">activity_191385086</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191328212 by pmetras (0 additions, 8 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191328212</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191328212&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/pmetras&quot;&gt;pmetras&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191370916 by Luca Giovannangeli (19 additions, 11 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191370916</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191370916&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Luca Giovannangeli&quot;&gt;Luca Giovannangeli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Modifications de tracés de rues et d&amp;#x27;infrastructures à Montreuil&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 8&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 19&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 11&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191328212&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191328212&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191370916&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191370916&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 16:44:45 GMT</pubDate>
-        <guid isPermaLink="false">activity_191328212</guid>
+        <pubDate>Mon, 02 Nov 2026 14:39:39 GMT</pubDate>
+        <guid isPermaLink="false">activity_191370916</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191337438 by Britzz (0 additions, 5 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191337438</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191337438&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Britzz&quot;&gt;Britzz&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; voirie&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191373260 by Luca Giovannangeli (13 additions, 3 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191373260</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191373260&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Luca Giovannangeli&quot;&gt;Luca Giovannangeli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Modifications de tracés de rues et d&amp;#x27;infrastructures à Montreuil&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 13&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191373260&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191373260&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2026 15:26:12 GMT</pubDate>
+        <guid isPermaLink="false">activity_191373260</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191375569 by Luca Giovannangeli (12 additions, 3 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191375569</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191375569&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Luca Giovannangeli&quot;&gt;Luca Giovannangeli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Modifications de tracés de rues et d&amp;#x27;infrastructures à Montreuil&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 12&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191375569&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191375569&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2026 16:05:21 GMT</pubDate>
+        <guid isPermaLink="false">activity_191375569</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191386072 by Britzz (2 additions, 5 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191386072</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191386072&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Britzz&quot;&gt;Britzz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Ajout entrées et trottoirs surfaciques&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 5&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191386072&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191386072&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2026 20:06:43 GMT</pubDate>
+        <guid isPermaLink="false">activity_191386072</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191365507 by jerome92370 (0 additions, 5 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191365507</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191365507&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/jerome92370&quot;&gt;jerome92370&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Rue des Archives : lampadaires, arbres, bancs&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 5&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191337438&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191337438&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191365507&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191365507&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 20:34:44 GMT</pubDate>
-        <guid isPermaLink="false">activity_191337438</guid>
+        <pubDate>Mon, 02 Nov 2026 12:48:09 GMT</pubDate>
+        <guid isPermaLink="false">activity_191365507</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191328221 by pmetras (0 additions, 4 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191328221</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191328221&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/pmetras&quot;&gt;pmetras&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether kerbs have tactile paving&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191373602 by Benoît C MdP (0 additions, 4 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191373602</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191373602&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Benoît C MdP&quot;&gt;Benoît C MdP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Détail des aménagements cyclables&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 4&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191328221&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191328221&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191373602&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191373602&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 16:44:50 GMT</pubDate>
-        <guid isPermaLink="false">activity_191328221</guid>
+        <pubDate>Mon, 02 Nov 2026 15:31:25 GMT</pubDate>
+        <guid isPermaLink="false">activity_191373602</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191328220 by pmetras (0 additions, 4 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191328220</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191328220&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/pmetras&quot;&gt;pmetras&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 4&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191328220&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191328220&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 16:44:50 GMT</pubDate>
-        <guid isPermaLink="false">activity_191328220</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191340599 by GeorgeKaplan (0 additions, 3 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191340599</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191340599&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/GeorgeKaplan&quot;&gt;GeorgeKaplan&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether kerbs have tactile paving&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191382791 by Luca Giovannangeli (0 additions, 3 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191382791</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191382791&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Luca Giovannangeli&quot;&gt;Luca Giovannangeli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Modifications de tracés de rues et d&amp;#x27;infrastructures à Montreuil&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191340599&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191340599&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191382791&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191382791&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 21:59:36 GMT</pubDate>
-        <guid isPermaLink="false">activity_191340599</guid>
+        <pubDate>Mon, 02 Nov 2026 18:35:51 GMT</pubDate>
+        <guid isPermaLink="false">activity_191382791</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191340598 by GeorgeKaplan (0 additions, 3 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191340598</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191340598&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/GeorgeKaplan&quot;&gt;GeorgeKaplan&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191340598&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191340598&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 21:59:36 GMT</pubDate>
-        <guid isPermaLink="false">activity_191340598</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191337325 by SerpentSlayer (0 additions, 3 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191337325</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191337325&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/SerpentSlayer&quot;&gt;SerpentSlayer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; +wikidata&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191337325&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191337325&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 20:31:58 GMT</pubDate>
-        <guid isPermaLink="false">activity_191337325</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191336415 by LolofromParis (0 additions, 3 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191336415</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191336415&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/LolofromParis&quot;&gt;LolofromParis&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Bonjour. La circulation automobile de la Rue de la Réunion est à sens unique de là rue des Orteaux vers la rue de Bagnolet (ultime modification des travaux qui ont transformé le quartier)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191336415&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191336415&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 20:06:13 GMT</pubDate>
-        <guid isPermaLink="false">activity_191336415</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191327356 by jerome92370 (0 additions, 3 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191327356</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191327356&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/jerome92370&quot;&gt;jerome92370&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Lampadaires vers Alésia&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191327356&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191327356&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 16:24:11 GMT</pubDate>
-        <guid isPermaLink="false">activity_191327356</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191334892 by NicolasVV (0 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191334892</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191334892&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/NicolasVV&quot;&gt;NicolasVV&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Mises à jour rue Gerda Taro&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191378077 by jerome92370 (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191378077</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191378077&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/jerome92370&quot;&gt;jerome92370&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Rue des Archives : lampadaires, arbres (suite)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191334892&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191334892&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191378077&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191378077&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 19:24:12 GMT</pubDate>
-        <guid isPermaLink="false">activity_191334892</guid>
+        <pubDate>Mon, 02 Nov 2026 16:56:29 GMT</pubDate>
+        <guid isPermaLink="false">activity_191378077</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191324216 by Sébastien MARQUE (0 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191324216</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191324216&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Sébastien MARQUE&quot;&gt;Sébastien MARQUE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191361556 by Hydrel (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191361556</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191361556&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Hydrel&quot;&gt;Hydrel&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Survey tactile paving on steps&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191324216&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191324216&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191361556&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191361556&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 15:10:23 GMT</pubDate>
-        <guid isPermaLink="false">activity_191324216</guid>
+        <pubDate>Mon, 02 Nov 2026 11:16:18 GMT</pubDate>
+        <guid isPermaLink="false">activity_191361556</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191339998 by SerpentSlayer (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191339998</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191339998&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/SerpentSlayer&quot;&gt;SerpentSlayer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; +wikidata&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191387556 by Benoît C MdP (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191387556</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191387556&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Benoît C MdP&quot;&gt;Benoît C MdP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Cohérence de la voie&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191339998&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191339998&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191387556&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191387556&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 21:38:33 GMT</pubDate>
-        <guid isPermaLink="false">activity_191339998</guid>
+        <pubDate>Mon, 02 Nov 2026 20:45:41 GMT</pubDate>
+        <guid isPermaLink="false">activity_191387556</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191339795 by Vincent35762 (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191339795</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191339795&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Vincent35762&quot;&gt;Vincent35762&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs at crossings&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191387246 by Benoît C MdP (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191387246</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191387246&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Benoît C MdP&quot;&gt;Benoît C MdP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Mise à jour de la voirie&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191339795&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191339795&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191387246&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191387246&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 21:35:23 GMT</pubDate>
-        <guid isPermaLink="false">activity_191339795</guid>
+        <pubDate>Mon, 02 Nov 2026 20:37:24 GMT</pubDate>
+        <guid isPermaLink="false">activity_191387246</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191339768 by CDLO (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191339768</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191339768&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/CDLO&quot;&gt;CDLO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; ajout et modifications d&amp;#x27;éléments&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191379535 by JacquesMartin (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191379535</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191379535&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JacquesMartin&quot;&gt;JacquesMartin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether ways are lit&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191339768&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191339768&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191379535&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191379535&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 21:34:34 GMT</pubDate>
-        <guid isPermaLink="false">activity_191339768</guid>
+        <pubDate>Mon, 02 Nov 2026 17:24:45 GMT</pubDate>
+        <guid isPermaLink="false">activity_191379535</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191338212 by SerpentSlayer (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191338212</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191338212&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/SerpentSlayer&quot;&gt;SerpentSlayer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; +wikidata&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191367117 by Trianglo (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191367117</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191367117&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Trianglo&quot;&gt;Trianglo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether traffic signals have tactile indications that it&amp;#x27;s safe to cross&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191338212&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191338212&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191367117&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191367117&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 20:54:36 GMT</pubDate>
-        <guid isPermaLink="false">activity_191338212</guid>
+        <pubDate>Mon, 02 Nov 2026 13:19:53 GMT</pubDate>
+        <guid isPermaLink="false">activity_191367117</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191328755 by pyrog (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191328755</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191328755&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/pyrog&quot;&gt;pyrog&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Ajout ou mise à jour de monuments commémoratif - Père Lachaise, Paris&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191328755&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191328755&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 16:56:31 GMT</pubDate>
-        <guid isPermaLink="false">activity_191328755</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191325626 by RaphiC (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191325626</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191325626&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/RaphiC&quot;&gt;RaphiC&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191362842 by Elissarc (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191362842</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191362842&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Elissarc&quot;&gt;Elissarc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -288,106 +240,10 @@
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191325626&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191325626&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191362842&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191362842&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2026 15:42:15 GMT</pubDate>
-        <guid isPermaLink="false">activity_191325626</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191324248 by SerpentSlayer (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191324248</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191324248&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/SerpentSlayer&quot;&gt;SerpentSlayer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify paths smoothness&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191324248&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191324248&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 15:10:54 GMT</pubDate>
-        <guid isPermaLink="false">activity_191324248</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191324246 by SerpentSlayer (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191324246</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191324246&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/SerpentSlayer&quot;&gt;SerpentSlayer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191324246&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191324246&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 15:10:54 GMT</pubDate>
-        <guid isPermaLink="false">activity_191324246</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191324244 by SerpentSlayer (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191324244</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191324244&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/SerpentSlayer&quot;&gt;SerpentSlayer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether kerbs have tactile paving&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191324244&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191324244&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 15:10:53 GMT</pubDate>
-        <guid isPermaLink="false">activity_191324244</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191324243 by SerpentSlayer (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191324243</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191324243&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/SerpentSlayer&quot;&gt;SerpentSlayer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191324243&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191324243&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 15:10:53 GMT</pubDate>
-        <guid isPermaLink="false">activity_191324243</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191322428 by Valerien_ (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191322428</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191322428&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Valerien_&quot;&gt;Valerien_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether kerbs have tactile paving&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191322428&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191322428&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 14:34:06 GMT</pubDate>
-        <guid isPermaLink="false">activity_191322428</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191322141 by Britzz (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191322141</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191322141&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Britzz&quot;&gt;Britzz&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; voirie&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191322141&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191322141&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Nov 2026 14:27:37 GMT</pubDate>
-        <guid isPermaLink="false">activity_191322141</guid>
+        <pubDate>Mon, 02 Nov 2026 11:41:59 GMT</pubDate>
+        <guid isPermaLink="false">activity_191362842</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 184795219 by Robmrt (1362 deletions)</title>
