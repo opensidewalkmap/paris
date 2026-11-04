@@ -65,7 +65,7 @@
     "geometry": "https://opensidewalkmap.github.io/paris/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-02T17:23:24+00:00",
+    "updated": "2026-11-03T15:29:16+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-28T21:21:02Z",
       "Versioning Data": "2026-11-01T14:55:41Z",
@@ -74,7 +74,7 @@
       "Completeness Analysis": "2026-10-29T22:31:00Z",
       "Statistical Charts": "2026-11-01T14:56:38Z",
       "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "Pipeline Success": "2026-11-02T17:23:24Z",
+      "Pipeline Success": "2026-11-03T15:29:16Z",
       "Wiki check for keys": "2026-11-01T15:08:18Z"
     }
   },
@@ -98,7 +98,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-02T17:23:24+00:00",
+    "generated_at": "2026-11-03T15:29:16+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
@@ -153,7 +153,7 @@
       "byte_size": 353,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "477d7ed47db1ab964693087e5c8597dd7d1148916c22b5f371b59d7449dee17b"
+        "value": "9ed28d79dd716a82bf547f0aab2378b67b3e866b9e245cf2513d84483ea820df"
       }
     },
     {
@@ -165,7 +165,7 @@
       "byte_size": 471,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d18bea55d9011b698cc8cdea88e81b9dc76ac67230ab7ec2e0d4e27529bed316"
+        "value": "2354dcd4cdc769436179b6ec8bf2965ac407b74bef14c3ffff7aad061ff9be0e"
       }
     },
     {
@@ -177,7 +177,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "022874c1a354cae626c9cc013cbd35742d18b70d8a764cace5ffa4a357a4b435"
+        "value": "e4d7fc679400045d05490e15dcf2534ed36bc3c11346c00c9c2065cd3fb6667e"
       }
     },
     {
@@ -189,7 +189,7 @@
       "byte_size": 94791,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "5caef77c6c60cd183ed56aaff67de9894589a7d1434d12b52b4d230e316db56f"
+        "value": "6d5715070a06fb8846830d207a3327b2b655e82305f291f9b11c8dd803158486"
       }
     },
     {
@@ -198,10 +198,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 5813,
+      "byte_size": 8591,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "99491a9efe17bb50109fa44a4b66289b0677cdc6670503afa73da12e8687b8bb"
+        "value": "f70e7bdfe3b5a14bba62bc4b4d0c5adbd2f868081769fdc55b79dc29ef3343f3"
       }
     }
   ],

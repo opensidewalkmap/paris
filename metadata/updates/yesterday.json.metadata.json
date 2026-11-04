@@ -34,7 +34,7 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-11-02T17:23:24+00:00",
+    "updated": "2026-11-03T15:29:16+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-28T21:21:02Z",
       "Versioning Data": "2026-11-01T14:55:41Z",
@@ -43,7 +43,7 @@
       "Completeness Analysis": "2026-10-29T22:31:00Z",
       "Statistical Charts": "2026-11-01T14:56:38Z",
       "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "Pipeline Success": "2026-11-02T17:23:24Z",
+      "Pipeline Success": "2026-11-03T15:29:16Z",
       "Wiki check for keys": "2026-11-01T15:08:18Z"
     }
   },
@@ -67,7 +67,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-02T17:23:24+00:00",
+    "generated_at": "2026-11-03T15:29:16+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/paris/data/updates/yesterday.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 5813,
+    "byte_size": 8591,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "99491a9efe17bb50109fa44a4b66289b0677cdc6670503afa73da12e8687b8bb"
+      "value": "f70e7bdfe3b5a14bba62bc4b4d0c5adbd2f868081769fdc55b79dc29ef3343f3"
     }
   },
   "links": [
