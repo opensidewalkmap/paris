@@ -1,1 +1,5 @@
 osm_id,feat_type,key,value,commentary
+1342011470,node,continuous_cycleway,yes,no wiki page for this key
+1548644145,node,sloped_curve,yes,no wiki page for this key
+1821290262,node,sloped_curve,yes,no wiki page for this key
+8222496215,node,hand_sanitizer,yes,no wiki page for this key
