@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/paris/data/updates/yesterday.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 3340,
+    "byte_size": 6414,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "b07b5ac9dbe1689482a30ddc07f0352533ecfb9f290f980f124525b947fefd28"
+      "value": "201a91cb719ba3e5c1a9bcaadf778d8fd0f5273f63324f7c391ad545f5591ffa"
     }
   },
   "links": [

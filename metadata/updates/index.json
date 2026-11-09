@@ -153,7 +153,7 @@
       "byte_size": 353,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "482cda21001f4155c1b4c49cef272c293360792a02d964841080c1a8e66ed067"
+        "value": "ec39c5cdc2273cb382d33194089976aeae3e6faa5c49333b5652c511469dc888"
       }
     },
     {
@@ -177,7 +177,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "988d99da488b7dc11d931006d338c3814a0ddc6c0b8c459e4eb9facf4101ac74"
+        "value": "a3e74c87efb447f8cc540e5a5c60f1f956ebca720e4dfcf0dc6143717daa079e"
       }
     },
     {
@@ -189,7 +189,7 @@
       "byte_size": 94791,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "95c033ed6fb76a32d457dc68cc942b393e81b9c2d050b9b76332191dc5c4572f"
+        "value": "14fa54c89fb170ed667e43d3f402c334447b545d2f5ae08dd46e104c7a31ba89"
       }
     },
     {
@@ -198,10 +198,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 3340,
+      "byte_size": 6414,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "b07b5ac9dbe1689482a30ddc07f0352533ecfb9f290f980f124525b947fefd28"
+        "value": "201a91cb719ba3e5c1a9bcaadf778d8fd0f5273f63324f7c391ad545f5591ffa"
       }
     }
   ],
