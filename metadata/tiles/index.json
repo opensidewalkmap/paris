@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/paris/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-08T15:11:01+00:00",
+    "updated": "2026-11-10T16:02:55+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-28T21:21:02Z",
       "Versioning Data": "2026-11-08T14:57:37Z",
-      "Data Pre-Processing": "2026-11-08T14:57:55Z",
-      "Data Quality Tool": "2026-11-08T14:58:27Z",
-      "Completeness Analysis": "2026-10-29T22:31:00Z",
-      "Statistical Charts": "2026-11-08T14:58:38Z",
+      "Data Pre-Processing": "2026-11-10T15:44:59Z",
+      "Data Quality Tool": "2026-11-10T15:59:47Z",
+      "Completeness Analysis": "2026-11-10T16:02:18Z",
+      "Statistical Charts": "2026-11-10T16:02:55Z",
       "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "Pipeline Success": "2026-11-08T14:28:16Z",
+      "Pipeline Success": "2026-11-09T18:09:19Z",
       "Wiki check for keys": "2026-11-08T15:11:01Z"
     }
   },
@@ -101,11 +101,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-08T15:11:01+00:00",
+    "generated_at": "2026-11-10T16:02:55+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "commit_date": "2026-10-28T18:09:46-03:00"
+      "commit": "3b626494e980a3d0bba34a982b3d43ca4275f541",
+      "commit_date": "2026-11-10T09:20:59-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -117,10 +117,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/tiles/crossings.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 55836850,
+      "byte_size": 55848338,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "06169f96824b627aa44c0c020efd7c1c649472262c055abb26b5af367bf6cfd1"
+        "value": "e6add40d4ac8a9ddca45a1c510d62e79b5faa6874601aa4b2988635a45722056"
       }
     },
     {
@@ -129,10 +129,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/tiles/informal_footways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 35965334,
+      "byte_size": 35967875,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "705034da33a0ce6aa71c7c5cffd44b266d657458dc5c19f77d2396319f93806d"
+        "value": "60090a083236f1e03fbb23d01d2bdeb736bd21b9598ddc0f3e66724cb07e62d1"
       }
     },
     {
@@ -141,10 +141,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/tiles/kerbs.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 55232577,
+      "byte_size": 55245396,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "93e12564cc21b529186eac8981041c69c6e43533985f4dbb86d2f715c3c4d24c"
+        "value": "0608af52123322d19c34121976cfa0eca5e432a1713c94c1879a517f947bfd5a"
       }
     },
     {
@@ -153,10 +153,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/tiles/main_footways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 55273338,
+      "byte_size": 55276109,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8366f176cbd82c19923ca78355a0d3322531ce0ab93ac25d7776fe3f3258bf1b"
+        "value": "176462f6ceb1bd24e52b73f4561a504385e17f91a26d68204e9ce79a795c85df"
       }
     },
     {
@@ -165,10 +165,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/tiles/pedestrian_areas.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 50760282,
+      "byte_size": 50758801,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d3dbe6fdb7465a8f347c85c8392ab93411628290e99b6a80b09b08c7bd651ad9"
+        "value": "31a1fdf7a9354b13cbb3ee809aa73c2aeb31b7672a7e53e9a6c92e9eb4a9d67b"
       }
     },
     {
@@ -177,10 +177,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/tiles/potential_footways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 75487042,
+      "byte_size": 75487512,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "e1e5f9ef1411a5ec70f2fa3a52a9afab21623391aa36a41978255a69fc9b85c2"
+        "value": "5936e3d34462d84c120e91eb0938b1c624a99ff1f3d55925dbb72c729c76819d"
       }
     },
     {
@@ -189,10 +189,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/tiles/sidewalks.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 61146284,
+      "byte_size": 61167887,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "455d5607761aa2635f14e4319bce1d91ee63970eb07f48d7dd319020fabd63dd"
+        "value": "0333d1d9b1a2064e8aa688010f03d0720673a551483eb4776831312a6c7dc36d"
       }
     },
     {
@@ -201,10 +201,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/tiles/stairways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 59033080,
+      "byte_size": 59032455,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "4f96761857c64998288a06a03f63c0b3c1d110463905af926e6e953989e928e6"
+        "value": "fbfb36cb09a87cd761fc8123ec9b34fbd1ad555d2648c87ec0cc6a0fcd32072e"
       }
     },
     {
@@ -216,7 +216,7 @@
       "byte_size": 1661,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "1371d475304186bdcd43e9bc88929f9526b49935bf9e76e0c2a3d9346ab23bca"
+        "value": "502e780741866a23161563ebb16f98570c621449dfd83560b57021abdb4f88f6"
       }
     }
   ],

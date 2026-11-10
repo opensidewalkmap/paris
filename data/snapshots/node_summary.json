@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Paris, France",
-    "generated_at": "2026-10-29T22:27:18.961356+00:00",
+    "generated_at": "2026-11-10T15:59:18.434800+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -694,51 +694,51 @@
             "unknown": 0,
             "unknownPercent": 0.0,
             "invalid": 0,
-            "min": 0.0,
-            "max": 22.220397,
-            "mean": 1.820857,
-            "median": 1.664613,
+            "min": 0.005476,
+            "max": 22.253251,
+            "mean": 1.849612,
+            "median": 1.697467,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 85633,
+                    "count": 84408,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 47186,
+                    "count": 48315,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 2889,
+                    "count": 2939,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 1297,
+                    "count": 1338,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 519,
+                    "count": 506,
                     "color": "#443983"
                 },
                 {
                     "label": "10+",
                     "lower": 10.0,
                     "upper": null,
-                    "count": 1106,
+                    "count": 1124,
                     "color": "#440154"
                 }
             ],
@@ -776,56 +776,56 @@
             "invalid": 283,
             "min": 1.0,
             "max": 76.0,
-            "mean": 4.343513,
+            "mean": 4.347228,
             "median": 3.0,
             "bins": [
                 {
                     "label": "0–<5",
                     "lower": 0.0,
                     "upper": 5.0,
-                    "count": 99724,
+                    "count": 99648,
                     "color": "#1d1147"
                 },
                 {
                     "label": "5–<10",
                     "lower": 5.0,
                     "upper": 10.0,
-                    "count": 26718,
+                    "count": 26785,
                     "color": "#51127c"
                 },
                 {
                     "label": "10–<15",
                     "lower": 10.0,
                     "upper": 15.0,
-                    "count": 8392,
+                    "count": 8391,
                     "color": "#832681"
                 },
                 {
                     "label": "15–<20",
                     "lower": 15.0,
                     "upper": 20.0,
-                    "count": 2458,
+                    "count": 2460,
                     "color": "#b73779"
                 },
                 {
                     "label": "20–<25",
                     "lower": 20.0,
                     "upper": 25.0,
-                    "count": 631,
+                    "count": 637,
                     "color": "#e75263"
                 },
                 {
                     "label": "25–<30",
                     "lower": 25.0,
                     "upper": 30.0,
-                    "count": 237,
+                    "count": 238,
                     "color": "#fc8961"
                 },
                 {
                     "label": "30+",
                     "lower": 30.0,
                     "upper": null,
-                    "count": 187,
+                    "count": 188,
                     "color": "#fec488"
                 }
             ],
