@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/paris/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-10T16:02:55+00:00",
+    "updated": "2026-11-12T16:42:03+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-28T21:21:02Z",
       "Versioning Data": "2026-11-08T14:57:37Z",
-      "Data Pre-Processing": "2026-11-10T15:44:59Z",
-      "Data Quality Tool": "2026-11-10T15:59:47Z",
-      "Completeness Analysis": "2026-11-10T16:02:18Z",
-      "Statistical Charts": "2026-11-10T16:02:55Z",
-      "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "Pipeline Success": "2026-11-09T18:09:19Z",
+      "Data Pre-Processing": "2026-11-12T16:13:30Z",
+      "Data Quality Tool": "2026-11-12T16:38:35Z",
+      "Completeness Analysis": "2026-11-12T16:41:02Z",
+      "Statistical Charts": "2026-11-12T16:42:03Z",
+      "OSWM Codebase Revision": "3b626494e980a3d0bba34a982b3d43ca4275f541",
+      "Pipeline Success": "2026-11-10T16:36:32Z",
       "Wiki check for keys": "2026-11-08T15:11:01Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-10T16:02:55+00:00",
+    "generated_at": "2026-11-12T16:42:03+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "3b626494e980a3d0bba34a982b3d43ca4275f541",
-      "commit_date": "2026-11-10T09:20:59-03:00"
+      "commit": "6f811852641f5dfab29d522535556999c683d8eb",
+      "commit_date": "2026-11-10T21:33:14-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -119,10 +119,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/routing/metadata.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 3094,
+      "byte_size": 3098,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "50c313466576dfb6cecef5d7728327ed8ee8bf861eee06643ff92c74f5035d33"
+        "value": "8ee11b1fa0cac237f1ed074fdb8c047c33494df0f5e69d642ab533b536d84713"
       }
     },
     {
@@ -134,7 +134,7 @@
       "byte_size": 19659924,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "c1ca6ad36cb01d1f4db0f3d7862e9b32cb3e505c2dfe70010e788cc7aaa48e47"
+        "value": "f7e3593c7d8c58b098d4c1cbb22b47e7e05b768eb90609fa50bade3a7495e31e"
       }
     },
     {
@@ -143,10 +143,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/routing/network.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 8611284,
+      "byte_size": 8577578,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "099d447d1ede228893fd187fc327c161d6d6a660edbd3374a9cdb91fddd12f8e"
+        "value": "d6484feae545524d13630ab13bf20d84b9bd2e11fdcac06dddebec42c31ce676"
       }
     },
     {
@@ -155,10 +155,10 @@
       "metadata": "https://opensidewalkmap.github.io/paris/metadata/routing/network.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 32184629,
+      "byte_size": 32184631,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "f45dc49e6734fadfaa77b3891c3cd609c1a50afc7f6fd791ddd55dcef2d012c4"
+        "value": "43d889c9b14422241c270442f609cc449187dd7298f215804e6a5f72a4689080"
       }
     },
     {
@@ -170,7 +170,7 @@
       "byte_size": 3923,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "6e19144a301817831cb11000e73227393d05c3192b1defc21384576675236404"
+        "value": "728ae57740526222a6cceea6ebf67d5f0a1794744f57298fed0380ce639c7672"
       }
     },
     {
@@ -194,7 +194,7 @@
       "byte_size": 220,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "422832385e5567a528799feb49096e4b8f23af86796583c07d8f79751628e0a9"
+        "value": "4812c9cef5e7fef27b267206926b3848f2fc039711c9b765f021ea06300db24a"
       }
     }
   ],

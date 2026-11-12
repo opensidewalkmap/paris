@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Paris, France",
-    "generated_at": "2026-11-10T15:59:18.434800+00:00",
+    "generated_at": "2026-11-12T16:37:44.129231+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -694,51 +694,51 @@
             "unknown": 0,
             "unknownPercent": 0.0,
             "invalid": 0,
-            "min": 0.005476,
-            "max": 22.253251,
-            "mean": 1.849612,
-            "median": 1.697467,
+            "min": 0.010951,
+            "max": 22.258727,
+            "mean": 1.855087,
+            "median": 1.702943,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 84408,
+                    "count": 84211,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 48315,
+                    "count": 48493,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 2939,
+                    "count": 2956,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 1338,
+                    "count": 1334,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 506,
+                    "count": 500,
                     "color": "#443983"
                 },
                 {
                     "label": "10+",
                     "lower": 10.0,
                     "upper": null,
-                    "count": 1124,
+                    "count": 1136,
                     "color": "#440154"
                 }
             ],
