@@ -113,16 +113,12 @@ osm_id,feat_type,key,value,commentary
 1156718513,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 1179766711,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 1179766717,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
-1179766742,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
-1179766743,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
-1179766775,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 1179766800,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 1179766848,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 1179767000,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 1179767009,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 1179767041,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 1179767191,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
-1179767256,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 1179767265,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 1179767343,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 1181466424,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
@@ -465,6 +461,7 @@ osm_id,feat_type,key,value,commentary
 2879838364,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 2879838366,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 2906063860,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
+2942289179,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 2997723259,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 3036590964,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 3129331654,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
@@ -1024,6 +1021,7 @@ osm_id,feat_type,key,value,commentary
 11021971668,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 11022195845,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 11025735383,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
+11025796667,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 11027642391,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 11027642393,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 11027946064,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
@@ -1325,3 +1323,4 @@ osm_id,feat_type,key,value,commentary
 13742082561,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 13742107588,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
 13852192090,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.
+14189082324,node,not appliable,not appliable,this kerb does not intersect any crossing geometry.

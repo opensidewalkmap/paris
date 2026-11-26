@@ -34,16 +34,16 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-11-24T19:05:10+00:00",
+    "updated": "2026-11-26T18:39:21+00:00",
     "node_registry": {
-      "Data Fetching": "2026-10-28T21:21:02Z",
+      "Data Fetching": "2026-11-24T21:21:23Z",
       "Versioning Data": "2026-11-22T16:08:41Z",
-      "Data Pre-Processing": "2026-11-22T16:09:03Z",
-      "Data Quality Tool": "2026-11-22T16:09:48Z",
-      "Completeness Analysis": "2026-11-12T16:41:02Z",
-      "Statistical Charts": "2026-11-22T16:10:01Z",
+      "Data Pre-Processing": "2026-11-26T18:09:50Z",
+      "Data Quality Tool": "2026-11-26T18:35:39Z",
+      "Completeness Analysis": "2026-11-26T18:39:00Z",
+      "Statistical Charts": "2026-11-26T18:39:21Z",
       "OSWM Codebase Revision": "6f811852641f5dfab29d522535556999c683d8eb",
-      "Pipeline Success": "2026-11-24T19:05:10Z",
+      "Pipeline Success": "2026-11-25T18:09:57Z",
       "Wiki check for keys": "2026-11-22T16:22:57Z"
     }
   },
@@ -67,7 +67,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-24T19:05:10+00:00",
+    "generated_at": "2026-11-26T18:39:21+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "6f811852641f5dfab29d522535556999c683d8eb",
@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/paris/data/updates/watcher_decision.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 231,
+    "byte_size": 226,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "1b048a53616a378ebd6c0e5c8d5b055e34ab05f6f59000661a9c5449ee664b1d"
+      "value": "af47fb64a88544833b21026b9bd6b1b5e0d4bebad061fffffb8a8c1d37077782"
     }
   },
   "links": [

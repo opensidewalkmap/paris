@@ -1,6 +1,6 @@
 {
   "node_name": "Paris, France",
-  "generated_at": "2026-11-25T18:09:53Z",
+  "generated_at": "2026-11-26T19:37:28Z",
   "bbox": [
     48.8155755,
     2.224122,
@@ -28,9 +28,9 @@
       }
     },
     "Pic4Review": {
-      "status": "offline",
+      "status": "ok",
       "instances": {
-        "https://pic4review.pavie.info/#/": "offline"
+        "https://pic4review.pavie.info/#/": "ok"
       }
     },
     "MapRoulette": {
