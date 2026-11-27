@@ -34,7 +34,7 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-11-26T18:39:21+00:00",
+    "updated": "2026-11-26T19:38:13+00:00",
     "node_registry": {
       "Data Fetching": "2026-11-24T21:21:23Z",
       "Versioning Data": "2026-11-22T16:08:41Z",
@@ -43,7 +43,7 @@
       "Completeness Analysis": "2026-11-26T18:39:00Z",
       "Statistical Charts": "2026-11-26T18:39:21Z",
       "OSWM Codebase Revision": "6f811852641f5dfab29d522535556999c683d8eb",
-      "Pipeline Success": "2026-11-25T18:09:57Z",
+      "Pipeline Success": "2026-11-26T19:38:13Z",
       "Wiki check for keys": "2026-11-22T16:22:57Z"
     }
   },
@@ -67,7 +67,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-26T18:39:21+00:00",
+    "generated_at": "2026-11-26T19:38:13+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "6f811852641f5dfab29d522535556999c683d8eb",
@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/paris/data/updates/watcher_decision.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 226,
+    "byte_size": 231,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "af47fb64a88544833b21026b9bd6b1b5e0d4bebad061fffffb8a8c1d37077782"
+      "value": "9666fee898d5a14c8d2c51f20a5f37b7f9dd7992c6fb5795111f8cbca0f216e7"
     }
   },
   "links": [
